@@ -4,4 +4,4 @@ layout: "default"
 isPage: true
 ---
 
-I like long walks on the beach. **Plus I rock at DocPad!**
+I like long walks in the mountains. **Plus I rock at DocPad!**
