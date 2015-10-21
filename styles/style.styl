@@ -1,0 +1,97 @@
+// Responsive layouts in stylus
+// https://gist.github.com/1549029
+// Created by Benjamin Lupton
+// Licensed under the Creative Commons Zero - http://creativecommons.org/publicdomain/zero/1.0/
+
+// ====================================
+// Imports
+
+// Nib
+@import 'nib'
+
+// Reset
+global-reset()
+
+// Responsive Layouts
+@import 'responsive'
+
+
+// ====================================
+// Layout: Initial
+// Write your initial layout configuration here
+
+// Sections
+#header, #main, #footer
+  wrapper(80%)
+
+// Menu
+#header
+  clearfix()
+  nav,ul
+    li
+      column()
+      width: (100%/7)
+
+// Portal
+.portal
+  clearfix()
+  nav,ul
+    column()
+    width: (100%/4)
+    h3
+      margin 0 5%
+
+
+// ====================================
+// Styles
+// Write your normal styles here
+
+
+// ====================================
+// Layout: Responsive
+// Write your responsive layout styles here
+// Below is merely an example of how this should work
+
+// Increase the wrappers from 80% to 85%
+@media screen and (max-width: 1280px)
+  #header, #main, #footer
+    wrapper(85%)
+
+// Increase the wrappers from 85% to 90%
+@media screen and (max-width: 1120px)
+  #header, #main, #footer
+    wrapper(90%)
+
+// Increase the wrappers from 90% to 100%
+// Drop the portal columns from 4 a row, to 2 a row
+@media screen and (max-width: 960px)
+  #header, #main, #footer
+    wrapper(100%)
+  .portal
+    nav,ul
+      width: (100%/2)
+      .heading
+        margin: 2%
+
+// Change some font sizes
+@media screen and (max-width: 840px)
+  #header nav li a h2
+    font-size 18px
+    padding-top 4px
+
+// Change the menu columns from 7 a row, to 4 a row
+// Drop the main width from 100% to 95%
+// Drop the portal columns from 2 a row, to 1 a row
+@media screen and (max-width: 720px)
+  #header, #footer
+    wrapper(100%)
+    nav,ul
+      li
+        width: (100%/4)
+  #main
+    wrapper(95%)
+  .portal
+    nav,ul
+      width: (100%)
+      .heading
+        margin: 0
