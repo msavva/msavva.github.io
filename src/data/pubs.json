@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2015-11",
+    "title": "Activity-centric Scene Synthesis for Functional 3D Scene Modeling",
+    "authors": ["matt", "manolis", "yangyan", "pat", "matthias"],
+    "text": "Proceedings of SIGGRAPH Asia 2015",
+    "img": "files/actsynth.png",
+    "pdf": "http://graphics.stanford.edu/~niessner/papers/2015/9synth/fisher2015activity_orig.pdf",
+    "bib": "http://graphics.stanford.edu/projects/actsynth/fisher2015actsynth.bib",
+    "web": "http://graphics.stanford.edu/projects/actsynth/"
+  },
+  {
+    "date": "2015-07",
+    "title": "Semantically-Enriched 3D Models for Common-sense Knowledge",
+    "authors": ["manolis", "angel", "pat"],
+    "text": "CVPR 2015 Vision meets Cognition Workshop",
+    "img": "files/semgeo.png",
+    "pdf": "http://graphics.stanford.edu/projects/semgeo/semgeo.pdf",
+    "bib": "http://graphics.stanford.edu/projects/semgeo/semgeo.bib",
+    "web": "http://graphics.stanford.edu/projects/semgeo/"
+  },
+  {
+    "date": "2015-06",
+    "title": "Text to 3D Scene Generation with Rich Lexical Grounding",
+    "authors": ["angel", "will", "manolis", "chrispotts", "chrisman"],
+    "text": "Proceedings of ACL 2015",
+    "img": "files/lexground.png",
+    "pdf": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/chang-acl2015-lexground.bib",
+    "web": "http://nlp.stanford.edu/data/text2scene.shtml"
+  },
+  {
+    "date": "2014-12",
+    "title": "SceneGrok: Inferring Action Maps in 3D Environments",
+    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "text": "Proceedings of SIGGRAPH Asia 2014",
+    "img": "files/scenegrok.png",
+    "pdf": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.pdf",
+    "bib": "http://graphics.stanford.edu/projects/scenegrok/scenegrok.bib",
+    "web": "http://graphics.stanford.edu/projects/scenegrok/"
+  },
+  {
+    "date": "2014-12",
+    "title": "On Being the Right Scale: Sizing Large Collections of 3D Models",
+    "authors": ["manolis", "angel", "gilbert", "chrisman", "pat"],
+    "text": "SIGGRAPH Asia 2014 Workshop on Indoor Scene Understanding: Where Graphics meets Vision",
+    "img": "files/sizes.png",
+    "pdf": "http://graphics.stanford.edu/projects/sizes/sizes.pdf",
+    "bib": "http://graphics.stanford.edu/projects/sizes/sizes.bib",
+    "web": "http://graphics.stanford.edu/projects/sizes/"
+  },
+  {
+    "date": "2014-10",
+    "title": "Learning Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014)",
+    "img": "files/spatialLearning.png",
+    "pdf": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/spatial-emnlp2014.bib",
+    "web": ""
+  },
+  {
+    "date": "2014-07",
+    "title": "Learning Affordance Maps by Observing Interactions",
+    "authors": ["manolis", "angel", "matt", "matthias", "pat"],
+    "text": "CVPR 2014 Workshop on Functionality, Physics, Intentionality and Causality",
+    "img": "files/fpic2014.png",
+    "pdf": "files/fpic2014.pdf",
+    "bib": "files/fpic2014.bib",
+    "web": ""
+  },
+  {
+    "date": "2014-06",
+    "title": "Interactive Learning of Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the ACL 2014 Workshop on Interactive Language Learning, Visualization, and Interfaces",
+    "img": "files/interactiveLearning.png",
+    "pdf": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/scenegen-aclviz2014.bib",
+    "web": ""
+  },
+  {
+    "date": "2014-06",
+    "title": "Semantic Parsing for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the ACL 2014 Workshop on Semantic Parsing",
+    "img": "files/semanticParsing.png",
+    "pdf": "http://nlp.stanford.edu/pubs/scenegen-sp2014.pdf",
+    "bib": "http://nlp.stanford.edu/pubs/scenegen-sp2014.bib",
+    "web": ""
+  },
+  {
+    "date": "2014-05",
+    "title": "TransPhoner: Automated Mnemonic Keyword Generation",
+    "authors": ["manolis", "angel", "chrisman", "pat"],
+    "text": "Proceedings of CHI 2014",
+    "img": "files/transphoner.png",
+    "pdf": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.pdf",
+    "bib": "http://graphics.stanford.edu/projects/transphoner/TransPhoner.bib",
+    "web": "http://graphics.stanford.edu/projects/transphoner/"
+  },
+  {
+    "date": "2012-12",
+    "title": "Example-based Synthesis of 3D Object Arrangements",
+    "authors": ["matt", "daniel", "manolis", "tom", "pat"],
+    "text": "Proceedings of SIGGRAPH Asia 2012",
+    "img": "files/sceneSynth.png",
+    "pdf": "http://graphics.stanford.edu/projects/scenesynth/scenesynth_paper.pdf",
+    "bib": "http://graphics.stanford.edu/projects/scenesynth/",
+    "web": "http://graphics.stanford.edu/projects/scenesynth/"
+  },
+  {
+    "date": "2012-05",
+    "title": "GraphPrism: Compact Visualization of Network Structure",
+    "authors": ["sanjay", "diana", "manolis", "jeff"],
+    "text": "Advanced Visual Interfaces, 2012",
+    "img": "files/graphprism.png",
+    "pdf": "http://vis.stanford.edu/files/2012-GraphPrism-AVI.pdf",
+    "bib": "http://vis.stanford.edu/bibtex/graphprism",
+    "web": "http://vis.stanford.edu/papers/graphprism"
+  },
+  {
+    "date": "2011-10",
+    "title": "ReVision: Automated Classification, Analysis and Redesign of Chart Images",
+    "authors": ["manolis", "nickkong", "arti", "feifei", "maneesh", "jeff"],
+    "text": "ACM User Interface Software & Technology (UIST), 2011 <strong>[Notable Paper Award]</strong>",
+    "img": "files/revision.png",
+    "pdf": "http://vis.stanford.edu/files/2011-ReVision-UIST.pdf",
+    "bib": "http://vis.stanford.edu/bibtex/revision",
+    "web": "http://vis.stanford.edu/papers/revision"
+  },
+  {
+    "date": "2011-09",
+    "title": "Characterizing Structural Relationships in Scenes using Graph Kernels",
+    "authors": ["matt", "manolis", "pat"],
+    "text": "Proceedings of SIGGRAPH 2011",
+    "img": "files/graphkernel.png",
+    "pdf": "files/graphkernel.pdf",
+    "bib": "files/graphkernel.bib",
+    "web": ""
+  }
+]

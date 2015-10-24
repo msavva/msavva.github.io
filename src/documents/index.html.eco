@@ -1,0 +1,136 @@
+---
+title: "Manolis Savva"
+layout: "default"
+---
+
+<div id="name" class="row text-right">
+  <div class="col-sm-12">
+    <h1>Manolis Savva</h1>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-7">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Research Interests</h2>
+      </div>
+      <div class="panel-body">
+        <p>Enriching 3D Scenes and models with semantics</p>
+        <p>Data visualization</p>
+        <p>Data-driven content generation</p>
+        <p>3D scene modeling interfaces</p>
+        <p>Spatial cognition and language</p>
+      </div>
+    </div>
+
+
+  </div>
+  <div class="col-sm-5 text-right pull-right">
+    <img src="files/photo.jpg" alt="Manolis Savva" width="300px"/><br>
+    Ph.D. Candidate @
+    <a href="http://graphics.stanford.edu/">GFX Lab</a> |
+    <a href="http://www.cs.stanford.edu/">CS Dept</a> |
+    <a href="http://www.stanford.edu/">Stanford</a><br>
+    Advisor: <a href="http://graphics.stanford.edu/~hanrahan/">Pat Hanrahan</a><br>
+    <a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2014-09-09)<br>
+    <div style="font-family:monospace;">
+      msavva at stanford dot edu
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Research Projects</h2>
+      </div>
+      <div class="panel-body">
+        <div class="col-sm-4 project-img">
+          <a href="http://nlp.stanford.edu/projects/text2scene.shtml">
+            <img src="files/text2scene.png" alt="Text2Scene" class="img-responsive img-rounded"/>
+          </a>
+        </div>
+        <div class="col-sm-4 project-img">
+          <a href="">
+            <img src="files/scene-understanding.png" alt="3D Scene Understanding" class="img-responsive img-rounded"/>
+          </a>
+        </div>
+        <div class="col-sm-4 project-img">
+          <a href="http://shapenet.cs.stanford.edu">
+            <img src="files/shapenet.png" alt="ShapeNet" class="img-responsive img-rounded"/>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Publications</h2>
+      </div>
+      <div class="panel-body">
+        <% for p in @pubs: %>
+          <div class="row paper vertical-center">
+            <div class="col-sm-3 paper-img">
+              <a href="<%= p.web %>"><img src="<%= p.img %>" alt="<%= p.title %>" class="img-responsive" style="width: 300px;"/></a>
+              &nbsp;
+            </div>
+            <div class="col-sm-9">
+              <h4><a href="<%= p.web %>"><%= p.title %></a></h4>
+              <% for a in p.authors: %>
+                <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %><% end %>
+              <%- p.text %><br>
+              <a href="<%= p.pdf %>">pdf</a> | <a href="<%= p.bib %>">bib</a> | <a href="<%= p.web %>">webpage</a>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Education</h2>
+      </div>
+      <div class="panel-body">
+        <p>Ph.D. student, Computer Science, <a href="http://www.stanford.edu">Stanford University</a>, Fall 2010 - present</p>
+        <p>B.A., Physics and Computer Science, <a href="http://www.cornell.edu">Cornell University</a>, Fall 2005 - Fall 2009</p>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2>Teaching</h2>
+      </div>
+      <div class="panel-body">
+        I was an instructor for:<br>
+        <ul>
+          <li>Introduction to Computer Graphics and Imaging (CS 148), Summer 2015 at Stanford</li>
+        </ul>
+        I was a teaching assistant for:<br>
+        <ul>
+          <li>Introduction to Computer Graphics and Imaging (<a href="https://graphics.stanford.edu/wikis/cs148-11-summer/">CS 148</a>), Summer 2011 at Stanford</li>
+          <li>Introduction to Scientific Computing (<a href="http://www.cs.cornell.edu/Courses/cs3220/2010sp/about.stm">CS 3220</a>), Spring 2010 at Cornell</li>
+          <li>Introduction to Computer Graphics (<a href="http://www.cs.cornell.edu/courses/cs4620/2009fa/about.stm">CS 4620</a>), Fall 2009 at Cornell</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+  var sc_project = 7724643;
+  var sc_invisible = 1;
+  var sc_security = "1e50ec33";
+</script>
+<script type="text/javascript"
+        src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript>
+  <div class="statcounter"><a title="drupal stats"
+                              href="http://statcounter.com/drupal/" target="_blank"><img
+      class="statcounter"
+      src="http://c.statcounter.com/7724643/0/1e50ec33/0/"
+      alt="drupal stats"></a></div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->

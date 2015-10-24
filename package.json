@@ -1,11 +1,13 @@
 {
-  "name": "no-skeleton.docpad",
-  "version": "0.1.0",
-  "description": "New DocPad project without using a skeleton",
+  "name": "website.docpad",
+  "version": "0.0.1",
+  "description": "Homepage",
   "dependencies": {
     "docpad": "~6.78.4",
     "docpad-plugin-coffeescript": "~2.5.0",
+    "docpad-plugin-downloader": "~2.1.4",
     "docpad-plugin-eco": "~2.1.0",
+    "docpad-plugin-less": "~2.4.1",
     "docpad-plugin-ghpages": "~2.4.4",
     "docpad-plugin-livereload": "~2.6.1",
     "docpad-plugin-marked": "~2.3.0",
