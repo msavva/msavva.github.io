@@ -14,7 +14,8 @@ docpadConfig = {
       scripts: [
         "//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"
         "//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
-        "/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
+        "/scripts/bootstrap.min.js"
+        "/vendor/scripts/jsoneditor.min.js"
         "/scripts/script.js"
       ]
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
@@ -29,11 +30,18 @@ docpadConfig = {
       downloads: [
         {
           name: 'Bootstrap'
-          path: 'src/files/vendor/twitter-bootstrap'
+          path: 'download/twitter-bootstrap'
           url: 'https://codeload.github.com/twbs/bootstrap/tar.gz/master'
           tarExtractClean: true
         }
       ]
+    copy:
+      'boostrap-fonts':
+          src: '../download/twitter-bootstrap/dist/fonts'
+          out: 'fonts'
+      'bootstrap-js':
+          src: '../download/twitter-bootstrap/dist/js'
+          out: 'scripts'
 }
 
 module.exports = docpadConfig

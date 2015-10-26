@@ -21,6 +21,7 @@
   <![endif]-->
 
   <%- @getBlock("styles").add(@site.styles).toHTML() %>
+  <%- @getBlock('scripts').add(@site.scripts, {defer: false, async: false}).toHTML() %>
 </head>
 <body>
   <div class="container">
@@ -33,7 +34,5 @@
       </p>
     </footer>
   </div><!-- /container -->
-
-  <%- @getBlock('scripts').add(@site.scripts).toHTML() %>
 </body>
 </html>

@@ -1,0 +1,82 @@
+---
+title: "JSON Editor"
+layout: "default"
+---
+
+<h1><%- "Basic JSON Editor Example" %></h1>
+<div id='editor_holder'></div>
+<button id='submit' class='btn btn-success btn-lg'>Submit (console.log)</button>
+<script>
+$(document).ready(function() {
+  JSONEditor.defaults.options.theme = 'bootstrap3';
+  JSONEditor.defaults.options.ajax = true;
+  JSONEditor.defaults.options.iconlib = 'bootstrap3';
+  //JSONEditor.defaults.options.object_layout = 'grid';
+  var editor = new JSONEditor(document.getElementById('editor_holder'),{
+    schema: {
+      "$schema": "http://json-schema.org/draft-04/schema",
+      "@context": "http://schema.org",
+      "@type": "Article",
+      title: "Publication",
+      properties: {
+        title: {
+          "@type": "Date",
+          type: "string",
+          title: "Title"
+        },
+        authors: {
+          type: "array",
+          format: "table",
+          title: "Authors",
+          uniqueItems: true,
+          items: {
+            "@type": "Author",
+            type: "string",
+            title: "Author"
+          }
+        },
+        text: {
+          "@type": "Text",
+          type: "string",
+          title: "Text"
+        },
+        img: {
+          "@type": "URL",
+          type: "string",
+          title: "Image URL"
+        },
+        pdf: {
+          "@type": "URL",
+          type: "string",
+          title: "PDF URL"
+        },
+        bib: {
+          "@type": "URL",
+          type: "string",
+          title: "Bib URL"
+        },
+        web: {
+          "@type": "URL",
+          type: "string",
+          title: "Webpage URL"
+        },
+        date: {
+          "@type": "Date",
+          type: "string",
+          title: "Date"
+        }
+      },
+      required: [
+        "title",
+        "authors"
+      ]
+    }
+  });
+
+  // Hook up the submit button to log to the console
+  document.getElementById('submit').addEventListener('click',function() {
+    // Get the value from the editor
+    console.log(editor.getValue());
+  });
+})
+</script>
