@@ -16,15 +16,18 @@ $(document).ready(function() {
     schema: {
       "$schema": "http://json-schema.org/draft-04/schema",
       "@context": "http://schema.org",
-      "@type": "Article",
       title: "Publication",
       properties: {
         title: {
-          "@type": "Date",
           type: "string",
           title: "Title"
         },
-        authors: {
+        thumbnail: {
+          "@type": "URL",
+          type: "string",
+          title: "Thumbnail URL"
+        },
+        author: {
           type: "array",
           format: "table",
           title: "Authors",
@@ -35,30 +38,40 @@ $(document).ready(function() {
             title: "Author"
           }
         },
-        text: {
-          "@type": "Text",
-          type: "string",
-          title: "Text"
+        keywords: {
+          type: "array",
+          format: "table",
+          title: "Keywords",
+          items: {
+            "@type": "keywords",
+            type: "string",
+            title: "Keyword"
+          }
         },
-        img: {
-          "@type": "URL",
-          type: "string",
-          title: "Image URL"
+        award: {
+          type: "array",
+          format: "table",
+          title: "Awards",
+          items: {
+            "@type": "awards",
+            type: "string",
+            title: "Award"
+          }
         },
-        pdf: {
-          "@type": "URL",
-          type: "string",
-          title: "PDF URL"
+        quicklinks: {
+          type: "array",
+          format: "table",
+          title: "Quicklinks",
+          items: {
+            "@type": "URL",
+            type: "string",
+            title: "Quicklink",
+            enum: ["PDF","BIB","Website","Video","Youtube","Supplemental"]
+          }
         },
-        bib: {
-          "@type": "URL",
+        venue: {
           type: "string",
-          title: "Bib URL"
-        },
-        web: {
-          "@type": "URL",
-          type: "string",
-          title: "Webpage URL"
+          title: "Venue"
         },
         date: {
           "@type": "Date",
@@ -68,7 +81,8 @@ $(document).ready(function() {
       },
       required: [
         "title",
-        "authors"
+        "author",
+        "date"
       ]
     }
   });
