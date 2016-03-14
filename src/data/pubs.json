@@ -1,5 +1,15 @@
 [
   {
+    "date": "2015-12",
+    "title": "ShapeNet: An Information-Rich 3D Model Repository",
+    "authors": ["angel", "tom", "leo", "pat", "qixing", "zimo", "silvio", "manolis", "shuran", "hao", "jianxiong", "eric", "fisher"],
+    "text": "arXiv:1512.03012 [cs.GR], Dec 2015",
+    "img": "files/shapenet.png",
+    "pdf": "http://arxiv.org/pdf/1512.03012v1",
+    "bib": "http://shapenet.cs.stanford.edu/resources/shapenet.bib",
+    "web": "http://arxiv.org/abs/1512.03012"
+  },
+  {
     "date": "2015-11",
     "title": "Activity-centric Scene Synthesis for Functional 3D Scene Modeling",
     "authors": ["matt", "manolis", "yangyan", "pat", "matthias"],

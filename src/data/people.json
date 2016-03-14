@@ -38,6 +38,41 @@
     "name": "Thomas Funkhouser",
     "web": "http://www.cs.princeton.edu/~funk/"
   },
+  "leo": {
+    "name": "Leonidas Guibas",
+    "web": "http://geometry.stanford.edu/member/guibas/"
+  },
+  "hao": {
+    "name": "Hao Su",
+    "web": "http://ai.stanford.edu/~haosu/"
+  },
+  "eric": {
+    "name": "Li Yi",
+    "web": "http://geometry.stanford.edu/person.php?id=ericyi"
+  },
+  "qixing": {
+    "name": "Qixing Huang",
+    "web": "http://ttic.uchicago.edu/~huangqx/"
+  },
+  "zimo": {
+    "name": "Zimo Li"
+  },
+  "silvio": {
+    "name": "Silvio Savarese",
+    "web": "http://cvgl.stanford.edu/silvio/"
+  },
+  "shuran": {
+    "name": "Shuran Song",
+    "web": "vision.princeton.edu/people/shurans/"
+  },
+  "jianxiong": {
+    "name": "Jianxiong Xiao",
+    "web": "http://vision.princeton.edu/people/xj/"
+  },
+  "fisher": {
+    "name": "Fisher Yu",
+    "web": "http://yf.io/"
+  },
   "sanjay": {
     "name": "Sanjay Kairam",
     "web": "http://www.sanjaykairam.com/"

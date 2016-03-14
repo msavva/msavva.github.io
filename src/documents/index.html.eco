@@ -15,10 +15,9 @@ layout: "default"
         <h2>Research Interests</h2>
       </div>
       <div class="panel-body">
-        <p>Enriching 3D Scenes and models with semantics</p>
-        <p>Data visualization</p>
-        <p>Data-driven content generation</p>
+        <p>Human-centric 3D scene analysis and scene generation</p>
         <p>3D scene modeling interfaces</p>
+        <p>Data visualization</p>
         <p>Spatial cognition and language</p>
       </div>
     </div>
@@ -32,7 +31,7 @@ layout: "default"
     <a href="http://www.cs.stanford.edu/">CS Dept</a> |
     <a href="http://www.stanford.edu/">Stanford</a><br>
     Advisor: <a href="http://graphics.stanford.edu/~hanrahan/">Pat Hanrahan</a><br>
-    <a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2014-09-09)<br>
+    <a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2016-03-13)<br>
     <div style="font-family:monospace;">
       msavva at stanford dot edu
     </div>
