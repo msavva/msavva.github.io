@@ -1,5 +1,15 @@
 [
   {
+    "date": "2016-07",
+    "title": "PiGraphs: Learning Interaction Snapshots from Observations",
+    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "text": "Conditionally accepted at SIGGRAPH 2016",
+    "img": "http://graphics.stanford.edu/projects/pigraphs/pigraphs.png",
+    "pdf": "http://graphics.stanford.edu/projects/pigraphs/",
+    "bib": "http://graphics.stanford.edu/projects/pigraphs/",
+    "web": "http://graphics.stanford.edu/projects/pigraphs/"
+  },
+  {
     "date": "2015-12",
     "title": "ShapeNet: An Information-Rich 3D Model Repository",
     "authors": ["angel", "tom", "leo", "pat", "qixing", "zimo", "silvio", "manolis", "shuran", "hao", "jianxiong", "eric", "fisher"],
