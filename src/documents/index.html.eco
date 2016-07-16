@@ -77,8 +77,7 @@ layout: "default"
             </div>
             <div class="col-sm-9">
               <h4><a href="<%= p.web %>"><%= p.title %></a></h4>
-              <% for a in p.authors: %>
-                <% if @people[a].web: %><a href="<%= @people[a].web %>"><%= @people[a].name %></a><% else: %><%= @people[a].name %><% end %><% if a != p.authors[p.authors.length - 1]: %>, <% else: %><br><% end %><% end %>
+              <%- @getAuthors(p) %>
               <%- p.text %><br>
               <a href="<%= p.pdf %>">pdf</a> | <a href="<%= p.bib %>">bib</a> | <a href="<%= p.web %>">webpage</a>
             </div>

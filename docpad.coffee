@@ -20,6 +20,17 @@ docpadConfig = {
       ]
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
     people: JSON.parse(fs.readFileSync("src/data/people.json"))
+    getAuthors: (pub) ->
+      out = ""
+      authors = pub.authors
+      if authors and authors instanceof Array
+        for aId in authors
+          a = @people[aId]
+          str = if a.web then '<a href="' + a.web + '">' + a.name + '</a>' else a.name
+          out = out + str + if aId != authors[authors.length - 1] then ', ' else ''
+      else
+        out = pub.authors  # raw string authors
+      out = out + '<br>'
     getPreparedTitle: ->
       if @document.title then "#{@document.title} | #{@site.title}" else @site.title
   plugins:
