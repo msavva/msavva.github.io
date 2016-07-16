@@ -11,7 +11,7 @@
   },
   {
     "date": "2016-05",
-    "title": "SHREC'16 Track Large-Scale 3D Shape Retrieval from ShapeNet Core55",
+    "title": "SHREC'16 Track: Large-Scale 3D Shape Retrieval from ShapeNet Core55",
     "authors": "Manolis Savva, Fisher Yu, Hao Su, Masaki Aono, Baoquan Chen, Daniel Cohen-Or, Weihong Deng, Hang Su, Song Bai, Xiang Bai, Noa Fish, Jiajie Han, Evangelos Kalogerakis, Erik G. Learned-Miller, Yangyan Li, Minghui Liao, Subhransu Maji, Atsushi Tatsuma, Yida Wang, Nanhai Zhang, Zhichao Zhou",
     "text": "Eurographics Workshop on 3D Object Retrieval 2016",
     "img": "files/shrec16shapenet.png",
