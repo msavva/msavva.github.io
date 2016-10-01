@@ -15,7 +15,6 @@ docpadConfig = {
         "//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"
         "//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
         "/scripts/bootstrap.min.js"
-        "/vendor/scripts/jsoneditor.min.js"
         "/scripts/script.js"
       ]
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
