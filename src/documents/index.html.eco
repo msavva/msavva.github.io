@@ -3,61 +3,89 @@ title: "Manolis Savva"
 layout: "default"
 ---
 
-<div id="name" class="row text-right">
-  <div class="col-sm-12">
+<div class="row">
+  <div class="col-sm-12" id="name">
     <h1>Manolis Savva</h1>
   </div>
 </div>
+
 <div class="row">
-  <div class="col-sm-7">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h2>Research Interests</h2>
-      </div>
-      <div class="panel-body">
-        <p>Human-centric 3D scene analysis and scene generation</p>
-        <p>3D scene modeling interfaces</p>
-        <p>Data visualization</p>
-        <p>Spatial cognition and language</p>
-      </div>
-    </div>
-
-
-  </div>
-  <div class="col-sm-5 text-right pull-right">
-    <img src="files/photo.jpg" alt="Manolis Savva" width="300px"/><br>
-    Ph.D. Candidate @
-    <a href="http://graphics.stanford.edu/">GFX Lab</a> |
-    <a href="http://www.cs.stanford.edu/">CS Dept</a> |
-    <a href="http://www.stanford.edu/">Stanford</a><br>
-    Advisor: <a href="http://graphics.stanford.edu/~hanrahan/">Pat Hanrahan</a><br>
-    <a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2016-03-13)<br>
+  <div class="col-sm-3">
+    <div><img class="img img-responsive" src="files/photo.jpg" alt="Manolis Savva" width="250px"/></div>
+    &nbsp;
+    <div>Postdoctoral Research Associate</div>
+    <div><a href="http://www.princeton.edu/">Princeton University</a></div>
+    <div><a href="http://www.cs.princeton.edu/">Computer Science Department</a></div>
+    <div><a href="http://gfx.cs.princeton.edu/">Graphics Lab</a> | <a href="http://vision.princeton.edu/">Vision Lab</a></div>
+    <div><a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2016-03-13)</div>
     <div style="font-family:monospace;">
-      msavva at stanford dot edu
+      msavva at princeton dot edu
     </div>
+    <a href="https://github.com/msavva" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>
+    &nbsp;
+    <a href="mailto:msavva@cs.princeton.edu"><i class="fa fa-envelope-square fa-3x"></i></a>
+    &nbsp;
+    <a href="https://scholar.google.com/citations?user=4D2vsdYAAAAJ" target="_blank"><i class="fa fa-graduation-cap fa-3x"></i></a>
+    &nbsp;
+  </div>
+
+  <div class="col-sm-9">
+    <p>
+      I am a postdoctoral research associate at the Princeton University <a href="http://gfx.cs.princeton.edu/">Computer Graphics</a> and <a href="http://vision.princeton.edu/">Vision Lab</a>, where I work with <a href="http://cs.princeton.edu/~funk">Thomas Funkhouser</a>.
+      My research focuses on analysis, organization and generation of 3D content through a human-centric lens of ``common sense'' semantics.
+      The methods that I work on are stepping stones towards a holistic, human-centric 3D scene understanding with applications in computer graphics, computer vision, and robotics.
+    </p>
+    <p>
+      I received my Ph.D. from <a href="www.stanford.edu">Stanford University</a>, under the supervision of <a href="http://graphics.stanford.edu/~hanrahan">Pat Hanrahan</a>.
+      Prior to that, I was an undergraduate at <a href="www.cornell.edu">Cornell University</a> where I worked with <a href="http://www.cs.cornell.edu/~srm/">Steve Marschner</a>.
+    </p>
+
+    <h3>Research Interests</h3>
+    <ul>
+      <li>Human-centric 3D scene analysis and 3D scene generation</li>
+      <li>3D scene modeling and design interfaces</li>
+      <li>Data visualization</li>
+      <li>Spatial cognition and natural language understanding</li>
+    </ul>
+
+    <h3>News</h3>
+    <div class="row">
+      <div class="col-sm-2">December 2016</div>
+      <div class="col-sm-10">I am presenting in the "Directions in Shape Analysis towards Functionality" course at SIGGRAPH Asia 2016</div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2">September 2016</div>
+      <div class="col-sm-10">I have graduated from Stanford and moved to Princeton</div>
+    </div>
+
+    <h3>Travel</h3>
+    <span>Dec 5-9 2016 : SIGGRAPH Asia 2016</span><br>
+    <span>Dec 1-2 2016 : Stanford; Intel retreat</span>
+
   </div>
 </div>
+
 <br>
+
 <div class="row">
   <div class="col-sm-12">
-
     <div class="panel panel-default">
       <div class="panel-heading">
         <h2>Research Projects</h2>
       </div>
       <div class="panel-body">
-        <div class="col-sm-4 project-img">
+        <div class="col-md-4 project-img">
           <a href="http://nlp.stanford.edu/projects/text2scene.shtml">
             <img src="files/text2scene.png" alt="Text2Scene" class="img-responsive img-rounded"/>
           </a>
         </div>
-        <div class="col-sm-4 project-img">
+        <div class="col-md-4 project-img">
           <a href="">
             <img src="files/scene-understanding.png" alt="3D Scene Understanding" class="img-responsive img-rounded"/>
           </a>
         </div>
-        <div class="col-sm-4 project-img">
-          <a href="http://shapenet.cs.stanford.edu">
+        <div class="col-md-4 project-img">
+          <a href="https://www.shapenet.org">
             <img src="files/shapenet.png" alt="ShapeNet" class="img-responsive img-rounded"/>
           </a>
         </div>
@@ -92,7 +120,7 @@ layout: "default"
         <h2>Education</h2>
       </div>
       <div class="panel-body">
-        <p>Ph.D. student, Computer Science, <a href="http://www.stanford.edu">Stanford University</a>, Fall 2010 - present</p>
+        <p>Ph.D., Computer Science, <a href="http://www.stanford.edu">Stanford University</a>, Fall 2010 - Summer 2016</p>
         <p>B.A., Physics and Computer Science, <a href="http://www.cornell.edu">Cornell University</a>, Fall 2005 - Fall 2009</p>
       </div>
     </div>

@@ -1,22 +1,27 @@
 @import 'nib'
 
-@import url(https://fonts.googleapis.com/css?family=Questrial)
+@import url(https://fonts.googleapis.com/css?family=Lato)
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css)
 
 $cardinal-red = #8C1515
+$princeton-orange = #E87722
 $cool-gray = #4D4F53
 
 body
-  font-family Questrial
+  font-family Lato
 
 h1, h2
   color $cardinal-red
-  margin-top 10px
+  margin-top 0px
+  margin-bottom 0px
 
 a, a:hover
   color: $cardinal-red
 
 h3, h4
   font-weight bold
+  margin-top 0px
+  margin-bottom 0px
 
 .vertical-center
   display flex
@@ -35,3 +40,6 @@ h3, h4
 
 .paper + .paper
   //border-top 2px solid #ccc
+
+.panel-heading
+  padding 5px 15px
