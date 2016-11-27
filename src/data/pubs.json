@@ -1,5 +1,15 @@
 [
   {
+    "date": "2016-09",
+    "title": "Body-centric Understanding of 3D Environments",
+    "authors": ["manolis"],
+    "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2016",
+    "img": "files/thesis.png",
+    "pdf": "https://purl.stanford.edu/db690fq5772",
+    "bib": "https://purl.stanford.edu/db690fq5772",
+    "web": "https://purl.stanford.edu/db690fq5772"
+  },
+  {
     "date": "2016-07",
     "title": "PiGraphs: Learning Interaction Snapshots from Observations",
     "authors": ["manolis", "angel", "pat", "matt", "matthias"],
