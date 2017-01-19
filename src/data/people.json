@@ -65,6 +65,10 @@
     "name": "Shuran Song",
     "web": "http://vision.princeton.edu/people/shurans/"
   },
+  "andy": {
+    "name": "Andy Zeng",
+    "web": "http://www.cs.princeton.edu/~andyz/"
+  },
   "jianxiong": {
     "name": "Jianxiong Xiao",
     "web": "http://vision.princeton.edu/people/xj/"
@@ -108,5 +112,21 @@
   "yangyan": {
     "name": "Yangyan Li",
     "web": "http://web.stanford.edu/~yangyan/"
+  },
+  "yinda": {
+    "name": "Yinda Zhang",
+    "web": "http://robots.princeton.edu/people/yindaz/"
+  },
+  "ersin": {
+    "name": "Ersin Yumer",
+    "web": "http://www.meyumer.com/"
+  },
+  "jlee": {
+    "name": "Joon-Young Lee",
+    "web": "https://sites.google.com/site/jyleecv/"
+  },
+  "hjin": {
+    "name": "Hailin Jin",
+    "web": "https://research.adobe.com/person/hailin-jin/"
   }
 }

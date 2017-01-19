@@ -1,5 +1,25 @@
 [
   {
+    "date": "2016-12",
+    "title": "Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks",
+    "authors": ["yinda", "shuran", "ersin", "manolis", "jlee", "hjin" ,"tom"],
+    "text": "arXiv:1612.07429 [cs.CV]",
+    "img": "files/pbrs.jpg",
+    "pdf": "https://arxiv.org/pdf/1612.07429v2.pdf",
+    "bib": "http://robots.princeton.edu/projects/2016/PBRS/",
+    "web": "http://robots.princeton.edu/projects/2016/PBRS/"
+  },
+  {
+    "date": "2016-11",
+    "title": "Semantic Scene Completion from a Single Depth Image",
+    "authors": ["shuran", "fisher", "andy", "angel", "manolis", "tom"],
+    "text": "arXiv:1611.08974 [cs.CV]",
+    "img": "files/sscnet.jpg",
+    "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
+    "bib": "http://sscnet.cs.princeton.edu/bibtex.bib",
+    "web": "http://sscnet.cs.princeton.edu/"
+  },
+  {
     "date": "2016-09",
     "title": "Body-centric Understanding of 3D Environments",
     "authors": ["manolis"],
