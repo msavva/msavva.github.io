@@ -10,6 +10,10 @@
     "name": "Angel X. Chang",
     "web": "https://angelxuanchang.github.io/"
   },
+  "angie": {
+    "name": "Angela Dai",
+    "web": "http://graphics.stanford.edu/~adai/"
+  },
   "matt": {
     "name": "Matthew Fisher",
     "web": "http://graphics.stanford.edu/~mdfisher/"
@@ -37,6 +41,10 @@
   "tom": {
     "name": "Thomas Funkhouser",
     "web": "http://www.cs.princeton.edu/~funk/"
+  },
+  "maciej": {
+    "name": "Maciej Halber",
+    "web": "http://www.cs.princeton.edu/~mhalber/"
   },
   "leo": {
     "name": "Leonidas Guibas",

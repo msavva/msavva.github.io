@@ -1,5 +1,15 @@
 [
   {
+    "date": "2017-02",
+    "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
+    "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
+    "text": "arXiv:1702.04405 [cs.CV]",
+    "img": "files/scannet.jpg",
+    "pdf": "https://arxiv.org/pdf/1702.04405",
+    "bib": "http://www.scan-net.org/",
+    "web": "http://www.scan-net.org/"
+  },
+  {
     "date": "2016-12",
     "title": "Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks",
     "authors": ["yinda", "shuran", "ersin", "manolis", "jlee", "hjin" ,"tom"],
