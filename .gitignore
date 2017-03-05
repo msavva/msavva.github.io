@@ -31,3 +31,4 @@ download/
 
 # Sublime files
 *.sublime-*
+.DS_Store

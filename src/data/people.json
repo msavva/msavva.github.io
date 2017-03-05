@@ -136,5 +136,21 @@
   "hjin": {
     "name": "Hailin Jin",
     "web": "https://research.adobe.com/person/hailin-jin/"
+  },
+  "ruizhen": {
+    "name": "Ruizhen Hu",
+    "web": "http://csse.szu.edu.cn/staff/ruizhenhu/"
+  },
+  "oliver": {
+    "name": "Oliver van Kaick",
+    "web": "http://people.scs.carleton.ca/~olivervankaick/"
+  },
+  "youyi": {
+    "name": "Youyi Zheng",
+    "web": "http://sist.shanghaitech.edu.cn/faculty/zhengyy/"
+  },
+  "mihail": {
+    "name": "Mihail Eric",
+    "web": "http://stanford.edu/~meric/"
   }
 }
