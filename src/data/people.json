@@ -152,5 +152,13 @@
   "mihail": {
     "name": "Mihail Eric",
     "web": "http://stanford.edu/~meric/"
+  },
+  "kyle": {
+    "name": "Kyle Genova",
+    "web": "http://3dvision.princeton.edu/people.html"
+  },
+  "lin": {
+    "name": "Lin Shao",
+    "web": "https://icme.stanford.edu/people/lin-shao"
   }
 }

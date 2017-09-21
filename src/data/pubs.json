@@ -1,5 +1,35 @@
 [
   {
+    "date": "2017-09",
+    "title": "Cross-modal Attribute Transfer for Rescaling 3D Models",
+    "authors": ["lin", "angel", "hao", "manolis", "leo"],
+    "text": "3DV 2017",
+    "img": "files/attributeTransfer.png",
+    "pdf": "http://cseweb.ucsd.edu/~haosu/papers/3dv2017_attribute_transfer.pdf",
+    "bib": "",
+    "web": ""
+  },
+  {
+    "date": "2017-09",
+    "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments",
+    "authors": ["angel", "angie", "tom", "maciej", "matthias", "manolis", "shuran", "andy", "yinda"],
+    "text": "3DV 2017",
+    "img": "files/matterport3d.png",
+    "pdf": "https://arxiv.org/pdf/1709.06158",
+    "bib": "https://arxiv.org/abs/1709.06158",
+    "web": "https://niessner.github.io/Matterport/"
+  },
+  {
+    "date": "2017-03",
+    "title": "Learning Where to Look: Data-Driven Viewpoint Set Selection for 3D Scenes",
+    "authors": ["kyle", "manolis", "angel", "tom"],
+    "text": "arXiv:1702.04405 [cs.CV]",
+    "img": "files/viewsets.png",
+    "pdf": "https://arxiv.org/pdf/1704.02393",
+    "bib": "https://arxiv.org/abs/1704.02393",
+    "web": "https://arxiv.org/abs/1704.02393"
+  },
+  {
     "date": "2017-02",
     "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
     "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
