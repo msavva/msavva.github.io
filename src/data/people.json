@@ -160,5 +160,27 @@
   "lin": {
     "name": "Lin Shao",
     "web": "https://icme.stanford.edu/people/lin-shao"
+  },
+  "christiane": {
+    "name": "Christiane Fellbaum",
+    "web": "https://www.cs.princeton.edu/~fellbaum/"
+  },
+  "alexey": {
+    "name": "Alexey Dosovitskiy",
+    "web": "https://dosovits.github.io/"
+  },
+  "vladlen": {
+    "name": "Vladlen Koltun",
+    "web": "http://vladlen.info/"
+  },
+  "silvio": {
+    "name": "Silvio Savarese",
+    "web": "http://cvgl.stanford.edu/silvio/"
+  },
+  "rishi": {
+    "name": "Rishi Mago"
+  },
+  "pranav": {
+    "name": "Pranav Krishna"
   }
 }
