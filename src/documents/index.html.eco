@@ -18,8 +18,8 @@ layout: "default"
     <div><a href="http://www.cs.princeton.edu/">Computer Science Department</a></div>
     <div><a href="http://gfx.cs.princeton.edu/">Graphics Lab</a> | <a href="http://vision.princeton.edu/">Vision Lab</a></div>
     <div><a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2016-03-13)</div>
-    <div style="font-family:monospace;">
-      msavva at princeton dot edu
+    <div style="font-family:monospace; font-size: small;">
+      msavva at cs dot princeton dot edu
     </div>
     <a href="https://github.com/msavva" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>
     &nbsp;
@@ -87,18 +87,21 @@ layout: "default"
       </div>
       <div class="panel-body">
         <div class="col-md-4 project-img">
-          <a href="http://nlp.stanford.edu/projects/text2scene.shtml">
-            <img src="files/text2scene.png" alt="Text2Scene" class="img-responsive img-rounded"/>
+          <a href="https://smartscenes.github.io/pages/projects.html">
+            <h4 style="text-align: center; vertical-align: top;">Human-centric 3D Environments</h4>
+            <img src="files/thesis.png" style="max-height: 200px;" alt="Human-centric 3D environments" class="img-responsive"/>
           </a>
         </div>
         <div class="col-md-4 project-img">
-          <a href="">
-            <img src="files/scene-understanding.png" alt="3D Scene Understanding" class="img-responsive img-rounded"/>
+          <a href="https://smartscenes.github.io/pages/datasets.html">
+            <h4 style="text-align: center; vertical-align: top;">Semantically-enriched 3D datasets</h4>
+            <img src="files/datasets.png" style="max-height: 200px;" alt="3D datasets" class="img-responsive"/>
           </a>
         </div>
         <div class="col-md-4 project-img">
-          <a href="https://www.shapenet.org">
-            <img src="files/shapenet.png" alt="ShapeNet" class="img-responsive img-rounded"/>
+          <a href="https://minosworld.org">
+            <h4 style="text-align: center; vertical-align: top;">Indoor simulation</h4>
+            <img src="files/minos_scenes.png" style="max-height: 200px;" alt="MINOS" class="img-responsive"/>
           </a>
         </div>
       </div>
