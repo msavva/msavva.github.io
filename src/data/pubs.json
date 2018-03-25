@@ -1,4 +1,28 @@
 [
+  { "date": "2018-08",
+    "title": "Deep Convolutional Priors for Indoor 3D Scene Synthesis",
+    "authors": ["kai", "manolis", "angel", "daniel"],
+    "text": "SIGGRAPH 2018 (conditionally accepted)",
+    "pdf": "",
+    "img": "files/deepsynth.png",
+    "web": ""
+  },
+  { "date": "2018-04",
+    "title": "Functionality Representations and Applications for Shape Analysis",
+    "authors": ["ruizhen", "manolis", "oliver"],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2018",
+    "pdf": "files/func_star.pdf",
+    "img": "files/func_star.jpg",
+    "web": "files/func_star.pdf"
+  },
+  { "date": "2018-03",
+    "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
+    "authors": ["kevin", "chrischoy", "manolis", "angel", "tom", "silvio"],
+    "text": "arXiv:1803.08495 [cs.CV]",
+    "pdf": "https://arxiv.org/pdf/1803.08495",
+    "img": "files/text2shape.png",
+    "web": "http://text2shape.stanford.edu"
+  },
   { "date": "2017-12",
     "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
     "authors": ["manolis", "angel", "alexey", "tom", "vladlen"],
@@ -10,7 +34,7 @@
   { "date": "2017-12",
     "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
     "authors": ["shuran", "andy", "angel", "manolis", "silvio", "tom"],
-    "text": "arXiv:1712.04569 [cs.CV]",
+    "text": "CVPR 2018, arXiv:1712.04569 [cs.CV]",
     "pdf": "https://arxiv.org/abs/1712.04569",
     "img": "http://im2pano3d.cs.princeton.edu/teaser.jpg",
     "web": "http://im2pano3d.cs.princeton.edu/"

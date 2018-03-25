@@ -36,7 +36,7 @@
   },
   "daniel": {
     "name": "Daniel Ritchie",
-    "web": "http://www.stanford.edu/~dritchie/"
+    "web": "https://dritchie.github.io/"
   },
   "tom": {
     "name": "Thomas Funkhouser",
@@ -182,5 +182,15 @@
   },
   "pranav": {
     "name": "Pranav Krishna"
+  },
+  "kai": {
+    "name": "Kai Wang"
+  },
+  "kevin": {
+    "name": "Kevin Chen"
+  },
+  "chrischoy": {
+    "name": "Christopher B. Choy",
+    "web": "https://chrischoy.github.io/"
   }
 }
