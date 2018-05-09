@@ -2,10 +2,10 @@
   { "date": "2018-08",
     "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
     "authors": ["kai", "manolis", "angel", "daniel"],
-    "text": "SIGGRAPH 2018 (conditionally accepted)",
-    "pdf": "",
+    "text": "SIGGRAPH 2018",
+    "pdf": "files/deepsynth.pdf",
     "img": "files/deepsynth.png",
-    "web": ""
+    "web": "https://kwang-ether.github.io/deep-synth/"
   },
   { "date": "2018-04",
     "title": "Functionality Representations and Applications for Shape Analysis",
