@@ -50,6 +50,10 @@ layout: "default"
 
     <h3>News</h3>
     <div class="row">
+      <div class="col-sm-2">May 2018</div>
+      <div class="col-sm-10">Co-organizing ECCV 2018 workshop on <a href="https://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments</a></div>
+    </div>
+    <div class="row">
       <div class="col-sm-2">March 2018</div>
       <div class="col-sm-10">New paper on deep convolutional scene synthesis accepted to SIGGRAPH 2018</div>
     </div>
