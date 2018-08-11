@@ -5,25 +5,26 @@ layout: "default"
 
 <div class="row">
   <div class="col-sm-12" id="name">
-    <h1>Manolis Savva</h1>
+    <h1>&nbsp;</h1>
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-3">
-    <div><img class="img img-responsive" src="files/photo.jpg" alt="Manolis Savva" width="250px"/></div>
-    &nbsp;
-    <div>Postdoctoral Research Associate</div>
-    <div><a href="http://www.princeton.edu/">Princeton University</a></div>
-    <div><a href="http://www.cs.princeton.edu/">Computer Science Department</a></div>
-    <div><a href="http://gfx.cs.princeton.edu/">Graphics Lab</a> | <a href="http://vision.princeton.edu/">Vision Lab</a></div>
-    <div><a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2018-04-02)</div>
-    <div style="font-family:monospace; font-size: small;">
-      msavva at cs dot princeton dot edu
-    </div>
+    <div id="name"><h1>Manolis Savva</h1></div>
+    <div style="margin-bottom:0.1cm;"><img class="img img-responsive" src="files/photo.jpg" alt="Manolis Savva" width="250px"/></div>
+    <div>Assistant Professor</div>
+    <div><a href="http://cs.sfu.ca/">School of Computing Science</a></div>
+    <div style="margin-bottom:0.3cm;"><a href="http://www.sfu.ca/">Simon Fraser University</a></div>
+    <!-- <div>8888 University Dr., Burnaby BC, Canada</div> -->
+
+    <div>Visiting Researcher</div>
+    <div style="margin-bottom:0.3cm;"><a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a></div>
+    <!-- <div>1 Hacker Way, Menlo Park CA, USA</div> -->
+    <div style="margin-bottom:0.3cm;"><a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2018-04-02)</div>
     <a href="https://github.com/msavva" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>
     &nbsp;
-    <a href="mailto:msavva@cs.princeton.edu"><i class="fa fa-envelope-square fa-3x"></i></a>
+    <a href="mailto:msavva@cs.stanford.edu"><i class="fa fa-envelope-square fa-3x"></i></a>
     &nbsp;
     <a href="https://scholar.google.com/citations?user=4D2vsdYAAAAJ" target="_blank"><i class="fa fa-graduation-cap fa-3x"></i></a>
     &nbsp;
@@ -31,24 +32,29 @@ layout: "default"
 
   <div class="col-sm-9">
     <p>
-      I am a postdoctoral research associate at the Princeton University <a href="http://gfx.cs.princeton.edu/">Computer Graphics</a> and <a href="http://vision.princeton.edu/">Vision Lab</a>, where I work with <a href="http://cs.princeton.edu/~funk">Thomas Funkhouser</a>.
-      My research focuses on analysis, organization and generation of 3D content through a human-centric lens of ``common sense'' semantics.
+      I am a visiting researcher at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a>, and will be joining the School of Computing Science at <a href="http://www.sfu.ca">Simon Fraser University</a> in Vancouver, Canada as an Assistant Professor in 2019.
+      My research focuses on analysis, organization and generation of 3D content through a human-centric lens of "common sense" semantics.
       The methods that I work on are stepping stones towards a holistic form of 3D scene understanding revolving around people, with applications in computer graphics, computer vision, and robotics.
     </p>
     <p>
+      I worked as a postdoctoral research associate at the Princeton University <a href="http://gfx.cs.princeton.edu/">Computer Graphics</a> and <a href="http://vision.princeton.edu/">Vision Lab</a>.
       I received my Ph.D. from <a href="http://www.stanford.edu">Stanford University</a>, under the supervision of <a href="http://graphics.stanford.edu/~hanrahan">Pat Hanrahan</a>.
-      Prior to that, I was an undergraduate at <a href="www.cornell.edu">Cornell University</a> where I worked with <a href="http://www.cs.cornell.edu/~srm/">Steve Marschner</a>.
+      Prior to that, I received my undergraduate degree in Physics and Computer Science at <a href="www.cornell.edu">Cornell University</a>.
     </p>
 
     <h3>Research Interests</h3>
     <ul>
       <li>Human-centric 3D scene analysis</li>
-      <li>Scene synthesis for 3D content creation and learning through simulation</li>
+      <li>3D scene synthesis for VR/AR content creation, and learning through simulation</li>
       <li>Connecting natural language with 3D representations</li>
       <li>Data visualization</li>
     </ul>
 
     <h3>News</h3>
+    <div class="row">
+      <div class="col-sm-2">July 2018</div>
+      <div class="col-sm-10">Joined <a href="https://research.fb.com/category/facebook-ai-research/">FAIR Menlo Park</a> as a visiting researcher.</div>
+    </div>
     <div class="row">
       <div class="col-sm-2">May 2018</div>
       <div class="col-sm-10">Co-organizing ECCV 2018 workshop on <a href="https://eccv18-vlease.github.io/">Visual Learning and Embodied Agents in Simulation Environments</a></div>
