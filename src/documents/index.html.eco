@@ -32,7 +32,7 @@ layout: "default"
 
   <div class="col-sm-9">
     <p>
-      I am a visiting researcher at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a>, and will be joining the School of Computing Science at <a href="http://www.sfu.ca">Simon Fraser University</a> in Vancouver, Canada as an Assistant Professor in 2019.
+      I am an Assistant Professor in the School of Computing Science at <a href="http://www.sfu.ca">Simon Fraser University</a> in Vancouver, Canada and a visiting researcher at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a>.
       My research focuses on analysis, organization and generation of 3D content through a human-centric lens of "common sense" semantics.
       The methods that I work on are stepping stones towards a holistic form of 3D scene understanding revolving around people, with applications in computer graphics, computer vision, and robotics.
     </p>
@@ -51,6 +51,18 @@ layout: "default"
     </ul>
 
     <h3>News</h3>
+    <div class="row">
+      <div class="col-sm-2">March 2019</div>
+      <div class="col-sm-10">Organizing three workshops at CVPR 2019: <a href="https://aihabitat.org/challenge/">Habitat Challenge</a>, <a href="https://3dscenegen.github.io/">3D Scene Generation</a>, and <a href="http://www.scan-net.org/cvpr2019workshop/">ScanNet Indoor Scene Understanding</a>.</div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2">March 2019</div>
+      <div class="col-sm-10">Two papers accepted to CVPR 2019 and one paper at SIGGRAPH 2019.</div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2">Feb 2019</div>
+      <div class="col-sm-10">Released the <a href="https://aihabitat.org">AI Habitat</a> platform.</div>
+    </div>
     <div class="row">
       <div class="col-sm-2">July 2018</div>
       <div class="col-sm-10">Joined <a href="https://research.fb.com/category/facebook-ai-research/">FAIR Menlo Park</a> as a visiting researcher.</div>

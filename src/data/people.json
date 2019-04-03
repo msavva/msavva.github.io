@@ -193,5 +193,58 @@
   "chrischoy": {
     "name": "Christopher B. Choy",
     "web": "https://chrischoy.github.io/"
+  },
+  "yifeiShi": {
+    "name": "Yifei Shi",
+    "web": "http://www.yifeishi.net/"
+  },
+  "zhelunWu": {
+    "name": "Zhelun Wu"
+  },
+  "kaiXu": {
+    "name": "Kai Xu",
+    "web": "https://kevinkaixu.net/"
+  },
+  "yuAnLin": {
+    "name": "Yu-An Lin"
+  },
+  "benWeissmann": {
+    "name": "Ben Weissmann"
+  },
+  "armenAvetisyan": {
+    "name": "Armen Avetisyan",
+    "web": "https://niessnerlab.org/members/armen_avetisyan/profile.html"
+  },
+  "manuelDahnert": {
+    "name": "Manuel Dahnert",
+    "web": "https://niessnerlab.org/members/manuel_dahnert/profile.html"
+  },
+  "peterAnderson": {
+    "name": "Peter Anderson",
+    "web": "https://www.panderson.me/"
+  },
+  "devendra": {
+    "name": "Devendra Singh Chaplot",
+    "web": "http://www.cs.cmu.edu/~dchaplot/"
+  },
+  "saurabh": {
+    "name": "Saurabh Gupta",
+    "web": "http://saurabhg.web.illinois.edu/"
+  },
+  "janaKosecka": {
+    "name": "Jana Kosecka",
+    "web": "https://cs.gmu.edu/~kosecka/"
+  },
+  "jitendra": {
+    "name": "Jitendra Malik",
+    "web": "https://people.eecs.berkeley.edu/~malik/"
+  },
+  "roozbeh": {
+    "name": "Roozbeh Mottaghi",
+    "web": "https://cs.stanford.edu/~roozbeh/"
+  },
+  "amirZamir": {
+    "name": "Amir R. Zamir",
+    "web": "https://cs.stanford.edu/~amirz/"
   }
 }
