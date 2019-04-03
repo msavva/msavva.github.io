@@ -14,8 +14,8 @@ layout: "default"
     <div id="name"><h1>Manolis Savva</h1></div>
     <div style="margin-bottom:0.1cm;"><img class="img img-responsive" src="files/photo.jpg" alt="Manolis Savva" width="250px"/></div>
     <div>Assistant Professor</div>
-    <div><a href="http://cs.sfu.ca/">School of Computing Science</a></div>
-    <div style="margin-bottom:0.3cm;"><a href="http://www.sfu.ca/">Simon Fraser University</a></div>
+    <div><a href="https://cs.sfu.ca/">School of Computing Science</a></div>
+    <div style="margin-bottom:0.3cm;"><a href="https://www.sfu.ca/">Simon Fraser University</a></div>
     <!-- <div>8888 University Dr., Burnaby BC, Canada</div> -->
 
     <div>Visiting Researcher</div>
@@ -32,14 +32,14 @@ layout: "default"
 
   <div class="col-sm-9">
     <p>
-      I am an Assistant Professor in the School of Computing Science at <a href="http://www.sfu.ca">Simon Fraser University</a> in Vancouver, Canada and a visiting researcher at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a>.
+      I am an Assistant Professor in the School of Computing Science at <a href="https://www.sfu.ca">Simon Fraser University</a> in Vancouver, Canada and a visiting researcher at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a>.
       My research focuses on analysis, organization and generation of 3D content through a human-centric lens of "common sense" semantics.
       The methods that I work on are stepping stones towards a holistic form of 3D scene understanding revolving around people, with applications in computer graphics, computer vision, and robotics.
     </p>
     <p>
-      I worked as a postdoctoral research associate at the Princeton University <a href="http://gfx.cs.princeton.edu/">Computer Graphics</a> and <a href="http://vision.princeton.edu/">Vision Lab</a>.
-      I received my Ph.D. from <a href="http://www.stanford.edu">Stanford University</a>, under the supervision of <a href="http://graphics.stanford.edu/~hanrahan">Pat Hanrahan</a>.
-      Prior to that, I received my undergraduate degree in Physics and Computer Science at <a href="www.cornell.edu">Cornell University</a>.
+      I worked as a postdoctoral research associate at the Princeton University <a href="https://gfx.cs.princeton.edu/">Computer Graphics</a> and <a href="https://vision.princeton.edu/">Vision Lab</a>.
+      I received my Ph.D. from <a href="https://www.stanford.edu">Stanford University</a>, under the supervision of <a href="https://graphics.stanford.edu/~hanrahan">Pat Hanrahan</a>.
+      Prior to that, I received my undergraduate degree in Physics and Computer Science at <a href="https://www.cornell.edu">Cornell University</a>.
     </p>
 
     <h3>Research Interests</h3>
@@ -202,12 +202,12 @@ layout: "default"
   var sc_security = "1e50ec33";
 </script>
 <script type="text/javascript"
-        src="http://www.statcounter.com/counter/counter.js"></script>
+        src="https://www.statcounter.com/counter/counter.js"></script>
 <noscript>
   <div class="statcounter"><a title="drupal stats"
-                              href="http://statcounter.com/drupal/" target="_blank"><img
+                              href="https://statcounter.com/drupal/" target="_blank"><img
       class="statcounter"
-      src="http://c.statcounter.com/7724643/0/1e50ec33/0/"
+      src="https://c.statcounter.com/7724643/0/1e50ec33/0/"
       alt="drupal stats"></a></div>
 </noscript>
 <!-- End of StatCounter Code for Default Guide -->
