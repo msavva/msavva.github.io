@@ -246,5 +246,41 @@
   "amirZamir": {
     "name": "Amir R. Zamir",
     "web": "https://cs.stanford.edu/~amirz/"
+  },
+  "abhishek": {
+    "name": "Abhishek Kadian",
+    "web": "https://abhiskk.github.io/"
+  },
+  "oleksandr": {
+    "name": "Oleksandr Maksymets",
+    "web": "https://research.fb.com/people/maksymets-oleksandr/"
+  },
+  "yili": {
+    "name": "Yili Zhao",
+    "web": "http://www.yilizhao.net/"
+  },
+  "erik": {
+    "name": "Erik Wijmans",
+    "web": "https://wijmans.xyz/"
+  },
+  "bhavana": {
+    "name": "Bhavana Jain",
+    "web": "https://github.com/bhavanajain"
+  },
+  "julian": {
+    "name": "Julian Straub",
+    "web": "http://people.csail.mit.edu/jstraub/"
+  },
+  "jia": {
+    "name": "Jia Liu",
+    "web": "https://www.linkedin.com/in/jia-liu-a1221a2"
+  },
+  "devi": {
+    "name": "Devi Parikh",
+    "web": "https://www.cc.gatech.edu/~parikh/"
+  },
+  "dhruv": {
+    "name": "Dhruv Batra",
+    "web": "https://www.cc.gatech.edu/~dbatra/"
   }
 }

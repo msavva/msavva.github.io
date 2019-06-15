@@ -24,7 +24,7 @@ docpadConfig = {
       authors = pub.authors
       if authors and authors instanceof Array
         for aId in authors
-          a = @people[aId]
+          a = if @people[aId] then @people[aId] else {'name': aId}
           str = if a.web then '<a href="' + a.web + '">' + a.name + '</a>' else a.name
           out = out + str + if aId != authors[authors.length - 1] then ', ' else ''
       else
@@ -41,7 +41,7 @@ docpadConfig = {
         {
           name: 'Bootstrap'
           path: 'download/twitter-bootstrap'
-          url: 'https://codeload.github.com/twbs/bootstrap/tar.gz/master'
+          url: 'https://codeload.github.com/twbs/bootstrap/tar.gz/v3.3.7'
           tarExtractClean: true
         }
       ]
