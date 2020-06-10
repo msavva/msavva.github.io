@@ -17,10 +17,6 @@ layout: "default"
     <div><a href="https://cs.sfu.ca/">School of Computing Science</a></div>
     <div style="margin-bottom:0.3cm;"><a href="https://www.sfu.ca/">Simon Fraser University</a></div>
     <!-- <div>8888 University Dr., Burnaby BC, Canada</div> -->
-
-    <div>Visiting Researcher</div>
-    <div style="margin-bottom:0.3cm;"><a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a></div>
-    <!-- <div>1 Hacker Way, Menlo Park CA, USA</div> -->
     <div style="margin-bottom:0.3cm;"><a href="files/CV.pdf">CV/R&eacute;sum&eacute;</a> (updated 2018-10-13)</div>
     <a href="https://github.com/msavva" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>
     &nbsp;
@@ -32,14 +28,14 @@ layout: "default"
 
   <div class="col-sm-9">
     <p>
-      I am an Assistant Professor in the School of Computing Science at <a href="https://www.sfu.ca">Simon Fraser University</a> in Vancouver, Canada and a visiting researcher at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a>.
+      I am an Assistant Professor in the School of Computing Science at <a href="https://www.sfu.ca">Simon Fraser University</a>.
       My research focuses on analysis, organization and generation of 3D content through a human-centric lens of "common sense" semantics.
       The methods that I work on are stepping stones towards a holistic form of 3D scene understanding revolving around people, with applications in computer graphics, computer vision, and robotics.
     </p>
     <p>
-      I worked as a postdoctoral research associate at the Princeton University <a href="https://gfx.cs.princeton.edu/">Computer Graphics</a> and <a href="https://vision.princeton.edu/">Vision Lab</a>.
+      Prior to my current position I was a visiting researcher at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research</a> and a postdoctoral research associate at the Princeton University <a href="https://gfx.cs.princeton.edu/">Computer Graphics</a> and <a href="https://vision.princeton.edu/">Vision</a> Labs.
       I received my Ph.D. from <a href="https://www.stanford.edu">Stanford University</a>, under the supervision of <a href="https://graphics.stanford.edu/~hanrahan">Pat Hanrahan</a>.
-      Prior to that, I received my undergraduate degree in Physics and Computer Science at <a href="https://www.cornell.edu">Cornell University</a>.
+      My undergraduate degree was in Physics and Computer Science at <a href="https://www.cornell.edu">Cornell University</a>.
     </p>
 
     <h3>Research Interests</h3>

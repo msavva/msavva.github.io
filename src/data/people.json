@@ -1,6 +1,7 @@
 {
   "manolis": {
-    "name": "Manolis Savva"
+    "name": "Manolis Savva",
+    "special": true
   },
   "pat": {
     "name": "Pat Hanrahan",
@@ -282,5 +283,49 @@
   "dhruv": {
     "name": "Dhruv Batra",
     "web": "https://www.cc.gatech.edu/~dbatra/"
+  },
+  "changan": {
+    "name": "Changan Chen",
+    "web": "https://changan.io/"
+  },
+  "sha": {
+    "name": "Sha Hu",
+    "web": "https://husha1993.github.io/"
+  },
+  "payam": {
+    "name": "Payam Nikdel",
+    "web": "http://payamn.github.io/"
+  },
+  "greg": {
+    "name": "Greg Mori",
+    "web": "https://www.cs.sfu.ca/~mori/"
+  },
+  "ari": {
+    "name": "Ari Morcos",
+    "web": "http://www.arimorcos.com/"
+  },
+  "stefan": {
+    "name": "Stefan Lee",
+    "web": "http://web.engr.oregonstate.edu/~leestef/"
+  },
+  "irfan": {
+    "name": "Irfan Essa",
+    "web": "http://www.irfanessa.gatech.edu/"
+  },
+  "joanne": {
+    "name": "Joanne Truong",
+    "web": "https://www.joannetruong.com/"
+  },
+  "aaron": {
+    "name": "Aaron Gokaslan",
+    "web": "https://skylion007.github.io/"
+  },
+  "alex": {
+    "name": "Alexander Clegg",
+    "web": "https://scholar.google.com/citations?user=p463opcAAAAJ&hl=en"
+  },
+  "soniaChernova": {
+    "name": "Sonia Chernova",
+    "web": "https://www.cc.gatech.edu/~chernova/"
   }
 }

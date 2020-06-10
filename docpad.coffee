@@ -5,7 +5,7 @@ docpadConfig = {
     site:
       title: "Manolis Savva"
       author: "Manolis Savva"
-      email: "msavva@stanford.edu"
+      email: "msavva@sfu.ca"
       description: "Manolis Savva's Homepage"
       styles: [
         "/styles/twitter-bootstrap.css"
@@ -17,8 +17,17 @@ docpadConfig = {
         "/scripts/bootstrap.min.js"
         "/scripts/script.js"
       ]
+    groupBy: (array, key) ->
+      return array.reduce( (obj, element) ->
+        v = if (typeof(key) == 'function') then key(element) else element[key]
+        obj[v] = obj[v] || []
+        obj[v].push(element)
+        return obj
+      , {})
+    news: JSON.parse(fs.readFileSync("src/data/news.json"))
     pubs: JSON.parse(fs.readFileSync("src/data/pubs.json"))
     people: JSON.parse(fs.readFileSync("src/data/people.json"))
+    maintags: ['graphics', 'vision', 'hci', 'nlp'],
     getAuthors: (pub) ->
       out = ""
       authors = pub.authors
