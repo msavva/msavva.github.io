@@ -1,0 +1,15 @@
+
+<h3>News</h3>
+<hr>
+<p>
+<% if @news_limit: %>
+  <% @topnews = @news.slice(0, @news_limit) %>
+  <% for n in @topnews: %>
+    <div class="row">
+      <div class="col-sm-2"><%= n.date %></div>
+      <div class="col-sm-10"><%- n.description %></div>
+    </div>
+  <% end %>
+  <a href="news.html">More...</a>
+<% end %>
+</p>

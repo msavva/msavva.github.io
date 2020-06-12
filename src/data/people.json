@@ -284,10 +284,6 @@
     "name": "Dhruv Batra",
     "web": "https://www.cc.gatech.edu/~dbatra/"
   },
-  "changan": {
-    "name": "Changan Chen",
-    "web": "https://changan.io/"
-  },
   "sha": {
     "name": "Sha Hu",
     "web": "https://husha1993.github.io/"
@@ -327,5 +323,41 @@
   "soniaChernova": {
     "name": "Sonia Chernova",
     "web": "https://www.cc.gatech.edu/~chernova/"
+  },
+  "sam": {
+    "name": "Xiang Xu",
+    "web": "https://samxuxiang.github.io/",
+    "tags": ["student", "phd"]
+  },
+  "reza": {
+    "name": "Reza Asad",
+    "web": "https://github.com/reza-asad",
+    "tags": ["student", "phd"]
+  },
+  "supriya": {
+    "name": "Supriya Pandhre",
+    "web": "https://supriya-gdptl.github.io/",
+    "tags": ["student", "phd"]
+  },
+  "madhawa": {
+    "name": "Madhawa Vidanapathirana",
+    "web": "https://madhawav.github.io/",
+    "tags": ["student", "msc"]
+  },
+  "jiaqi": {
+    "name": "Jiaqi Tan",
+    "web": "https://github.com/ChristinaTan0704",
+    "tags": ["student", "msc"]
+  },
+  "shivansh": {
+    "name": "Shivansh Patel",
+    "web": "https://scholar.google.com/citations?user=Ks4l6rIAAAAJ&hl=en",
+    "tags": ["student", "intern"]
+  },
+  "changan": {
+    "name": "Changan Chen",
+    "web": "https://changan.io/",
+    "tags": ["student", "alum"],
+    "next": "PhD at UT Austin"
   }
 }

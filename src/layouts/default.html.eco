@@ -26,13 +26,37 @@
 <body>
   <div class="container">
     <section id="content" class="content">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1><a href="index.html">Manolis Savva</a></h1>
+        </div>
+      </div>
+      <hr>
       <%- @content %>
     </section>
-    <footer>
+
+    <!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+      var sc_project = 7724643;
+      var sc_invisible = 1;
+      var sc_security = "1e50ec33";
+    </script>
+    <script type="text/javascript"
+            src="https://www.statcounter.com/counter/counter.js"></script>
+    <noscript>
+      <div class="statcounter"><a title="drupal stats"
+                                  href="https://statcounter.com/drupal/" target="_blank"><img
+          class="statcounter"
+          src="https://c.statcounter.com/7724643/0/1e50ec33/0/"
+          alt="drupal stats"></a></div>
+    </noscript>
+    <!-- End of StatCounter Code for Default Guide -->
+
+    <!-- <footer>
       <p class="pull-right">
         Last updated at <%= @site.date.toISOString() %>
       </p>
-    </footer>
+    </footer> -->
   </div><!-- /container -->
 </body>
 </html>

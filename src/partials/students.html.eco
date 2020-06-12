@@ -1,0 +1,15 @@
+<% @students = Object.values(@people).filter((x) => @hasField(x, 'tags', ['student']) ) %>
+<% @current = @students.filter((x) => not @hasField(x, 'tags', ['alum']) ) %>
+<% @alumni = @students.filter((x) => @hasField(x, 'tags', ['alum']) ) %>
+
+<h3>Students & Visitors</h3>
+<hr>
+<% for p in @current: %>
+  <a href="<%= p.web %>"><%= p.name %></a><br>
+<% end %>
+
+<h3>Alumni</h3>
+<hr>
+<% for p in @alumni: %>
+  <a href="<%= p.web %>"><%= p.name %></a> (next: <%= p.next %>)<br>
+<% end %>

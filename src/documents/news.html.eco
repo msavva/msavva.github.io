@@ -10,8 +10,6 @@ layout: "default"
     <%- @partial('students') %>
   </div>
   <div class="col-sm-9">
-    <%- @partial('intro') %>
-    <%- @partial('news', { news_limit: 7 }) %>
-    <%- @partial('publications') %>
+    <%- @partial('news', { news_limit: 999 }) %>
   </div>
 </div>

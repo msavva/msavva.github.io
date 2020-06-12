@@ -1,0 +1,62 @@
+[
+  {
+      "date": "Jun 2020",
+      "description": "Co-organizing three workshops at CVPR 2020: <a href='https://learn3dgen.github.io/'>Learning 3D Generative Models</a>, <a href='https://embodied-ai.org/'>Embodied AI Workshop</a>, <a href='http://www.scan-net.org/cvpr2020workshop/'>ScanNet Indoor Scene Understanding Challenge</a>."
+  },
+  {
+    "date": "Apr 2020",
+    "description": "DD-PPO paper accepted at ICLR 2020."
+  },
+  {
+    "date": "Mar 2019",
+    "description": "Co-organizing three workshops at CVPR 2019: <a href='https://aihabitat.org/challenge/'>Habitat Challenge</a>, <a href='https://3dscenegen.github.io/'>3D Scene Generation</a>, and <a href='http://www.scan-net.org/cvpr2019workshop/'>ScanNet Indoor Scene Understanding</a>."
+  },
+  {
+    "date": "Mar 2019",
+    "description": "Two papers accepted to CVPR 2019 and one paper at SIGGRAPH 2019."
+  },
+  {
+    "date": "Feb 2019",
+    "description": "Released the <a href='https://aihabitat.org'>AI Habitat</a> platform."
+  },
+  {
+    "date": "Jan 2019",
+    "description": "Started at SFU!"
+  },
+  {
+    "date": "Jul 2018",
+    "description": "Joined <a href='https://research.fb.com/category/facebook-ai-research/'>FAIR Menlo Park</a> as a visiting researcher."
+  },
+  {
+    "date": "May 2018",
+    "description": "Co-organizing ECCV 2018 workshop on <a href='https://eccv18-vlease.github.io/'>Visual Learning and Embodied Agents in Simulation Environments</a>."
+  },
+  {
+    "date": "Mar 2018",
+    "description": "New paper on deep convolutional scene synthesis accepted to SIGGRAPH 2018."
+  },
+  {
+    "date": "Feb 2018",
+    "description": "State of the art report accepted to Eurographics 2018 + one paper accepted to CVPR 2018."
+  },
+  {
+    "date": "Sep 2017",
+    "description": "Two papers accepted to 3DV 2017."
+  },
+  {
+    "date": "Jul 2017",
+    "description": "I was an instructor at the Shenzhen University VCC 2017 Summer School."
+  },
+  {
+    "date": "Mar 2017",
+    "description": "Three papers accepted to CVPR 2017."
+  },
+  {
+    "date": "Dec 2016",
+    "description": "Co-organized the 'Directions in Shape Analysis towards Functionality' course at SIGGRAPH Asia 2016."
+  },
+  {
+    "date": "Sep 2016",
+    "description": "Graduated from Stanford and moved to Princeton."
+  }
+]

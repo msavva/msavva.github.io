@@ -10,35 +10,36 @@ $cool-gray = #4D4F53
 body
   font-family Lato
 
-h1, h2
+hr
   margin-top 0px
-  margin-bottom 0px
+  margin-bottom 1em
 
-a, a:hover
-  color: $cardinal-red
+h1, h2, h3, h4
+  margin-top 1em
+  margin-bottom 0px
+  font-variant-caps small-caps
 
 h3, h4
   font-weight bold
-  margin-top 0px
-  margin-bottom 0px
+
+a, a:hover
+  color: $cardinal-red
 
 .vertical-center
   display flex
   align-items center
 
-.panel-body
-  font-size 12pt
+.paper
+  padding-bottom 1em
+
+.paper-title
+  font-weight bold
+  color $cardinal-red
 
 .paper-img
   @extend .vertical-center
-  min-height 150px
+  // max-height 150px
 
 .project-img
-  @extend .vertical-center
+  // @extend .vertical-center
   min-height 200px
-
-.paper + .paper
-  //border-top 2px solid #ccc
-
-.panel-heading
-  padding 5px 15px
