@@ -1,5 +1,17 @@
 [
   {
+    "date": "Jul 2020",
+    "description": "Keynote talk on 3D graphics system challenges for simulation at <a href='https://www.highperformancegraphics.org/2020/'>High-performance Graphics 2020</a>."
+  },
+  {
+    "date": "",
+    "description": "<a href='http://www.scan-net.org/'>ScanNet</a> receives the <a href='https://sgp2020.sites.uu.nl/awards/'>SGP 2020 dataset award</a>."
+  },
+  {
+    "date": "",
+    "description": "Two papers accepted at IROS 2020."
+  },
+  {
       "date": "Jun 2020",
       "description": "Co-organizing three workshops at CVPR 2020: <a href='https://learn3dgen.github.io/'>Learning 3D Generative Models</a>, <a href='https://embodied-ai.org/'>Embodied AI Workshop</a>, <a href='http://www.scan-net.org/cvpr2020workshop/'>ScanNet Indoor Scene Understanding Challenge</a>."
   },

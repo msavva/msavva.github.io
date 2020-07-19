@@ -1,5 +1,27 @@
 [
   {
+    "date": "2020-07",
+    "title": "Relational Graph Learning for Crowd Navigation",
+    "authors": [
+      "changan", "sha", "payam", "greg", "manolis"
+    ],
+    "text": "International Conference on Intelligent Robots and Systems (IROS) 2020",
+    "img": "files/rgl.jpg",
+    "pdf": "https://arxiv.org/pdf/1909.13165.pdf",
+    "web": "https://github.com/ChanganVR/RelationalGraphLearning"
+  },
+  {
+    "date": "2020-07",
+    "title": "Are We Making Real Progress in Simulated Environments? Measuring the Sim2Real Gap in Embodied Visual Navigation",
+    "authors": [
+      "abhishek", "joanne", "aaron", "alex", "erik", "stefan", "manolis", "soniaChernova", "dhruv"
+    ],
+    "text": "Robotics and Automation Letters (RA-L) & IROS 2020",
+    "img": "files/srcc.jpg",
+    "pdf": "https://arxiv.org/pdf/1912.06321.pdf",
+    "web": "https://abhiskk.github.io/sim2real"
+  },
+  {
     "date": "2020-04",
     "title": "DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames",
     "authors": [
@@ -9,28 +31,6 @@
     "img": "files/ddppo.jpg",
     "pdf": "https://arxiv.org/pdf/1911.00357.pdf",
     "web": "https://github.com/facebookresearch/habitat-api"
-  },
-  {
-    "date": "2019-12",
-    "title": "Are We Making Real Progress in Simulated Environments? Measuring the Sim2Real Gap in Embodied Visual Navigation",
-    "authors": [
-      "abhishek", "joanne", "aaron", "alex", "erik", "stefan", "manolis", "soniaChernova", "dhruv"
-    ],
-    "text": "arXiv:1912.06321 [cs.CV]",
-    "img": "files/srcc.jpg",
-    "pdf": "https://arxiv.org/pdf/1912.06321.pdf",
-    "web": "https://abhiskk.github.io/sim2real"
-  },
-  {
-    "date": "2019-09",
-    "title": "Relational Graph Learning for Crowd Navigation",
-    "authors": [
-      "changan", "sha", "payam", "greg", "manolis"
-    ],
-    "text": "arXiv:1909.13165 [cs.RO]",
-    "img": "files/rgl.jpg",
-    "pdf": "https://arxiv.org/pdf/1909.13165.pdf",
-    "web": "https://github.com/ChanganVR/RelationalGraphLearning"
   },
   {
     "date": "2019-07",
