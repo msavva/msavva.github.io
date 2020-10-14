@@ -174,10 +174,6 @@
     "name": "Vladlen Koltun",
     "web": "http://vladlen.info/"
   },
-  "silvio": {
-    "name": "Silvio Savarese",
-    "web": "http://cvgl.stanford.edu/silvio/"
-  },
   "rishi": {
     "name": "Rishi Mago"
   },
@@ -354,10 +350,46 @@
     "web": "https://scholar.google.com/citations?user=Ks4l6rIAAAAJ&hl=en",
     "tags": ["student", "intern"]
   },
+  "saim": {
+    "name": "Saim Wani",
+    "web": "https://github.com/saimwani"
+  },
+  "unnat": {
+    "name": "Unnat Jain",
+    "web": "https://unnat.github.io/"
+  },
   "changan": {
     "name": "Changan Chen",
     "web": "https://changan.io/",
     "tags": ["student", "alum"],
     "next": "PhD at UT Austin"
+  },
+  "xianghao": {
+    "name": "Xianghao Xu",
+    "web": "https://www.linkedin.com/in/xianghao-xu-8b1024a6/"
+  },
+  "davidCharatan": {
+    "name": "David Charatan",
+    "web": "http://davidcharatan.com/"
+  },
+  "sonia": {
+    "name": "Sonia Raychaudhuri",
+    "web": "https://www.linkedin.com/in/sonia-raychaudhuri/"
+  },
+  "hanxiao": {
+    "name": "Hanxiao Jiang",
+    "web": "https://jianghanxiao.github.io/"
+  },
+  "mae": {
+    "name": "Mae Heitmann",
+    "web": "https://www.linkedin.com/in/mae-heitmann-770287118/"
+  },
+  "vova": {
+    "name": "Vladimir Kim",
+    "web": "http://www.vovakim.com/"
+  },
+  "sid": {
+    "name": "Siddhartha Chaudhuri",
+    "web": "https://www.cse.iitb.ac.in/~sidch/"
   }
 }

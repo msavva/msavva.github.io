@@ -1,5 +1,27 @@
 [
   {
+    "date": "2020-10",
+    "title": "Multi-ON: Benchmarking Semantic Map Memory using Multi-object Navigation",
+    "authors": [
+      "saim", "shivansh", "unnat", "angel", "manolis"
+    ],
+    "text": "NeurIPS 2020",
+    "img": "files/multion.jpg",
+    "pdf": "",
+    "web": ""
+  },
+  {
+    "date": "2020-10",
+    "title": "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections",
+    "authors": [
+      "xianghao", "davidCharatan", "sonia", "hanxiao", "mae", "vova", "sid", "manolis", "angel", "daniel"
+    ],
+    "text": "3DV 2020",
+    "img": "files/maps.jpg",
+    "pdf": "",
+    "web": ""
+  },
+  {
     "date": "2020-07",
     "title": "Relational Graph Learning for Crowd Navigation",
     "authors": [

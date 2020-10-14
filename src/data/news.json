@@ -1,5 +1,9 @@
 [
   {
+    "date": "Oct 2020",
+    "description": "One paper accepted at NeurIPS 2020 and one paper at 3DV 2020."
+  },
+  {
     "date": "Jul 2020",
     "description": "Keynote talk on 3D graphics system challenges for simulation at <a href='https://www.highperformancegraphics.org/2020/'>High-performance Graphics 2020</a>."
   },
