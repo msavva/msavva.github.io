@@ -391,5 +391,21 @@
   "sid": {
     "name": "Siddhartha Chaudhuri",
     "web": "https://www.cse.iitb.ac.in/~sidch/"
+  },
+  "andrewDavison": {
+    "name": "Andrew J. Davison",
+    "web": "https://www.doc.ic.ac.uk/~ajd/"
+  },
+  "jiaDeng": {
+    "name": "Jia Deng",
+    "web": "https://www.cs.princeton.edu/~jiadeng/"
+  },
+  "sergeyLevine": {
+    "name": "Sergey Levine",
+    "web": "https://people.eecs.berkeley.edu/~svlevine/"
+  },
+  "igorMordatch": {
+    "name": "Igor Mordatch",
+    "web": "https://scholar.google.com/citations?user=Vzr1RukAAAAJ"
   }
 }

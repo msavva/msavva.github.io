@@ -1,5 +1,15 @@
 [
   {
+    "date": "2020-11",
+    "title": "Rearrangement: A Challenge for Embodied AI",
+    "authors": [
+      "dhruv", "angel", "soniaChernova", "andrewDavison", "jiaDeng", "vladlen", "sergeyLevine", "jitendra", "igorMordatch", "roozbeh", "manolis", "hao"
+    ],
+    "img": "files/rearrangement.png",
+    "text": "arXiv:2011.01975 [cs.AI]",
+    "pdf": "https://arxiv.org/pdf/2011.01975.pdf"
+  },
+  {
     "date": "2020-10",
     "title": "Multi-ON: Benchmarking Semantic Map Memory using Multi-object Navigation",
     "authors": [
