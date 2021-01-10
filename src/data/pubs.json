@@ -17,8 +17,8 @@
     ],
     "text": "NeurIPS 2020",
     "img": "files/multion.jpg",
-    "pdf": "",
-    "web": ""
+    "pdf": "https://arxiv.org/pdf/2012.03912.pdf",
+    "web": "https://shivanshpatel35.github.io/multi-ON/"
   },
   {
     "date": "2020-10",
@@ -28,8 +28,8 @@
     ],
     "text": "3DV 2020",
     "img": "files/maps.jpg",
-    "pdf": "",
-    "web": ""
+    "pdf": "http://visual.cs.brown.edu/projects/articulations-webpage/articulations_3dv2020.pdf",
+    "web": "http://visual.cs.brown.edu/projects/articulations-webpage/"
   },
   {
     "date": "2020-07",
