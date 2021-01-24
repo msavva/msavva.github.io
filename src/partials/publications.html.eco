@@ -7,7 +7,7 @@
       <a href="<%= p.web || p.pdf %>"><img src="<%= p.img %>" alt="<%= p.title %>" class="img-responsive"/></a>
     <% end %>
     </div>
-    <div class="col-sm-9 paper-text">
+    <div class="col-xs-9 paper-text">
       <a href="<%= p.web %>" class="paper-title"><%= p.title %></a><br>
       <%- @getAuthors(p) %>
       <%- p.text %><br>

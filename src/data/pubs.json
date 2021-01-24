@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021-01",
+    "title": "Large Batch Simulation for Deep Reinforcement Learning",
+    "authors": [
+      "brennan", "erik", "alekseiPetrenko", "manolis", "dhruv", "vladlen", "kayvon"
+    ],
+    "img": "files/bps.png",
+    "text": "International Conference on Learning Representations (ICLR), 2021",
+    "pdf": "https://openreview.net/pdf?id=cP5IcoAkfKa",
+    "web": "https://openreview.net/forum?id=cP5IcoAkfKa"
+  },
+  {
     "date": "2020-11",
     "title": "Rearrangement: A Challenge for Embodied AI",
     "authors": [
@@ -7,7 +18,8 @@
     ],
     "img": "files/rearrangement.png",
     "text": "arXiv:2011.01975 [cs.AI]",
-    "pdf": "https://arxiv.org/pdf/2011.01975.pdf"
+    "pdf": "https://arxiv.org/pdf/2011.01975.pdf",
+    "web": "https://arxiv.org/abs/2011.01975"
   },
   {
     "date": "2020-10",

@@ -27,7 +27,7 @@
   <div class="container">
     <section id="content" class="content">
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-xs-12">
           <h1><a href="index.html">Manolis Savva</a></h1>
         </div>
       </div>

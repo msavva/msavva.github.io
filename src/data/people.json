@@ -406,5 +406,17 @@
   "igorMordatch": {
     "name": "Igor Mordatch",
     "web": "https://scholar.google.com/citations?user=Vzr1RukAAAAJ"
+  },
+  "brennan": {
+    "name": "Brennan Shacklett",
+    "web": "https://cs.stanford.edu/~bps/"
+  },
+  "alekseiPetrenko": {
+    "name": "Aleksei Petrenko",
+    "web": "https://alex-petrenko.github.io/"
+  },
+  "kayvon": {
+    "name": "Kayvon Fatahalian",
+    "web": "http://graphics.stanford.edu/~kayvonf/"
   }
 }
