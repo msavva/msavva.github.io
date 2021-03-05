@@ -418,5 +418,27 @@
   "kayvon": {
     "name": "Kayvon Fatahalian",
     "web": "http://graphics.stanford.edu/~kayvonf/"
+  },
+  "yasu": {
+    "name": "Yasutaka Furukawa",
+    "web": "https://www2.cs.sfu.ca/~furukawa/"
+  },
+  "richard": {
+    "name": "Hao Zhang",
+    "web": "https://www2.cs.sfu.ca/~haoz/"
+  },
+  "qirui": {
+    "name": "Qirui Wu"
+  },
+  "weijie": {
+    "name": "Weijie (Lewis) Lin"
+  },
+  "akshay": {
+    "name": "Akshay Gadi Patil",
+    "web": "http://www.sfu.ca/~agadipat/"
+  },
+  "manyi": {
+    "name": "Manyi Li",
+    "web": "https://manyili12345.github.io/"
   }
 }

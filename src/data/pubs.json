@@ -1,5 +1,32 @@
 [
   {
+    "date": "2021-06",
+    "title": "Plan2Scene: Converting Floorplans to 3D Scenes",
+    "authors": [
+      "madhawa", "qirui", "yasu", "angel", "manolis"
+    ],
+    "text": "CVPR 2021",
+    "img": "files/plan2scene.png"
+  },
+  {
+    "date": "2021-06",
+    "title": "Mirror3D: Depth Refinement for Mirror Surfaces",
+    "authors": [
+      "jiaqi", "weijie", "angel", "manolis"
+    ],
+    "img": "files/mirror3d.png",
+    "text": "CVPR 2021"
+  },
+  {
+    "date": "2021-06",
+    "title": "LayoutGMN: Neural Graph Matching for Structural Layout Similarity",
+    "authors": [
+      "akshay", "manyi", "matt", "manolis", "richard"
+    ],
+    "img": "files/layoutgmn.png",
+    "text": "CVPR 2021"
+  },
+  {
     "date": "2021-01",
     "title": "Large Batch Simulation for Deep Reinforcement Learning",
     "authors": [

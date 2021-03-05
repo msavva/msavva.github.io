@@ -1,5 +1,9 @@
 [
   {
+    "date": "Mar 2021",
+    "description": "Three papers accepted to CVPR 2021. Congratulations to Madhawa, Qirui, Jiaqi, and Lewis."
+  },
+  {
     "date": "Jan 2021",
     "description": "<a href='https://openreview.net/forum?id=cP5IcoAkfKa'>Large Batch Simulation for Deep Reinforcement Learning</a> accepted to ICLR 2021."
   },
