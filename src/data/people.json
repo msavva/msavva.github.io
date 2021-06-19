@@ -341,17 +341,18 @@
   },
   "jiaqi": {
     "name": "Jiaqi Tan",
-    "web": "https://github.com/ChristinaTan0704",
+    "web": "https://christinatan0704.github.io/mysite/",
     "tags": ["student", "msc"]
   },
   "shivansh": {
     "name": "Shivansh Patel",
-    "web": "https://scholar.google.com/citations?user=Ks4l6rIAAAAJ&hl=en",
-    "tags": ["student", "intern"]
+    "web": "https://shivanshpatel35.github.io/",
+    "tags": ["student", "intern", "alum"],
+    "next": "PhD at UIUC"
   },
   "saim": {
     "name": "Saim Wani",
-    "web": "https://github.com/saimwani"
+    "web": "https://saimwani.github.io/"
   },
   "unnat": {
     "name": "Unnat Jain",
@@ -428,10 +429,12 @@
     "web": "https://www2.cs.sfu.ca/~haoz/"
   },
   "qirui": {
-    "name": "Qirui Wu"
+    "name": "Qirui Wu",
+    "web": "https://ca.linkedin.com/in/qirui-wu-946450bb"
   },
   "weijie": {
-    "name": "Weijie (Lewis) Lin"
+    "name": "Weijie (Lewis) Lin",
+    "web": "https://lewislinn.github.io/"
   },
   "akshay": {
     "name": "Akshay Gadi Patil",

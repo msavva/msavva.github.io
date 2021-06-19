@@ -1,5 +1,9 @@
 [
   {
+    "date": "June 2021",
+    "description": "Helping to organize three workshops at CVPR 2021: <a href='http://www.scan-net.org/cvpr2021workshop/'>ScanNet Indoor Scene Understanding Challenge</a>, <a href='http://multion-challenge.cs.sfu.ca/'>Multi-Object Navigation Challenge</a> at the <a href='https://embodied-ai.org/'>Embodied AI Workshop</a>, <a href='https://learn3dg.github.io/'>Learning to Generate 3D Shapes and Scenes</a>."
+  },
+  {
     "date": "Mar 2021",
     "description": "Three papers accepted to CVPR 2021. Congratulations to Madhawa, Qirui, Jiaqi, and Lewis."
   },

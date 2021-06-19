@@ -6,7 +6,9 @@
       "madhawa", "qirui", "yasu", "angel", "manolis"
     ],
     "text": "CVPR 2021",
-    "img": "files/plan2scene.png"
+    "img": "files/plan2scene.png",
+    "pdf": "https://arxiv.org/pdf/2106.05375.pdf",
+    "web": "https://3dlg-hcvc.github.io/plan2scene/"
   },
   {
     "date": "2021-06",
@@ -15,7 +17,9 @@
       "jiaqi", "weijie", "angel", "manolis"
     ],
     "img": "files/mirror3d.png",
-    "text": "CVPR 2021"
+    "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2106.06629.pdf",
+    "web": "https://3dlg-hcvc.github.io/mirror3d/"
   },
   {
     "date": "2021-06",
