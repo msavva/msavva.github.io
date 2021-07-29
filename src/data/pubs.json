@@ -1,5 +1,38 @@
 [
   {
+    "date": "2021-10",
+    "title": "Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents",
+    "authors": [
+      "shivansh", "saim", "unnat", "alexSchwing", "svetlanaLazebnik", "manolis", "angel"
+    ],
+    "text": "ICCV 2021",
+    "img": "files/comon.png",
+    "pdf": "",
+    "web": ""
+  },
+  {
+    "date": "2021-06",
+    "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
+    "authors": [
+      "andrewSzot", "alex", "ericUndersander", "erik", "yili", "johnTurner", "noahMaestre", "mustafaMukadam", "devendraChaplot", "oleksandr", "aaron", "mosra", "sameerDharur", "franziskaMeier", "wojciechGaluba", "angel", "zsoltKira", "vladlen", "jitendra", "manolis", "dhruv"
+    ],
+    "text": "arXiv:2106.14405 [cs.LG,cs.RO], June 2020",
+    "img": "files/habitat2.jpeg",
+    "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
+    "web": "https://aihabitat.org/"
+  },
+  {
+    "date": "2021-06",
+    "title": "Roominoes: Learning to Assemble 3D Rooms into Floor Plans",
+    "authors": [
+      "kai", "xianghao", "leonLei", "selenaLing", "natalieLindsay", "angel", "manolis", "daniel"
+    ],
+    "text": "SGP 2021",
+    "img": "files/roominoes.png",
+    "pdf": "https://drive.google.com/file/d/1aSePGciFxnLRF4dhJynmNNctVfndIRpE/view",
+    "web": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang"
+  },
+  {
     "date": "2021-06",
     "title": "Plan2Scene: Converting Floorplans to 3D Scenes",
     "authors": [

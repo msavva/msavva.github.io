@@ -443,5 +443,69 @@
   "manyi": {
     "name": "Manyi Li",
     "web": "https://manyili12345.github.io/"
+  },
+  "selenaLing": {
+    "name": "Selena Ling",
+    "web": "https://www.selenaling.com/"
+  },
+  "leonLei": {
+    "name": "Leon Lei",
+    "web": "https://leonlei.com/portfolio/"
+  },
+  "natalieLindsay": {
+    "name": "Natalie Lindsay",
+    "web": "https://www.linkedin.com/in/natalie-lindsay-660518109"
+  },
+  "andrewSzot": {
+    "name": "Andrew Szot",
+    "web": "https://www.andrewszot.com/"
+  },
+  "devendraChaplot": {
+    "name": "Devendra Chaplot",
+    "web": "https://devendrachaplot.github.io/"
+  },
+  "mustafaMukadam": {
+    "name": "Mustafa Mukadam",
+    "web": "http://www.mustafamukadam.com/"
+  },
+  "franziskaMeier": {
+    "name": "Franziska Meier",
+    "web": "https://fmeier.github.io/"
+  },
+  "zsoltKira": {
+    "name": "Zsolt Kira",
+    "web": "https://www.cc.gatech.edu/~zk15/"
+  },
+  "mosra": {
+    "name": "Vladimír Vondrus",
+    "web": "https://github.com/mosra"
+  },
+  "ericUndersander": {
+    "name": "Eric Undersander",
+    "web": "https://www.ericundersander.com/"
+  },
+  "johnTurner": {
+    "name": "John Turner",
+    "web": "http://johnmturner.com/"
+  },
+  "noahMaestre": {
+    "name": "Noah Maestre",
+    "web": "https://www.linkedin.com/in/noah-maestre-20212081"
+  },
+  "sameerDharur": {
+    "name": "Sameer Dharur",
+    "web": "https://sameerdharur.github.io/"
+  },
+  "wojciechGaluba": {
+    "name": "Wojciech Galuba",
+    "web": "https://www.linkedin.com/in/galuba"
+  },
+  "alexSchwing": {
+    "name": "Alexander Schwing",
+    "web": "https://alexander-schwing.de/"
+  },
+  "svetlanaLazebnik": {
+    "name": "Svetlana Lazebnik",
+    "web": "https://slazebni.cs.illinois.edu/"
   }
 }
