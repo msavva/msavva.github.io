@@ -337,6 +337,17 @@
   "madhawa": {
     "name": "Madhawa Vidanapathirana",
     "web": "https://madhawav.github.io/",
+    "tags": ["student", "msc", "alum"],
+    "next": "Microsoft"
+  },
+  "sanjayHaresh": {
+    "name": "Sanjay Haresh",
+    "web": "https://scholar.google.com/citations?user=boFO-7gAAAAJ&hl=en",
+    "tags": ["student", "msc"]
+  },
+  "yongsen": {
+    "name": "Yongsen Mao",
+    "web": "",
     "tags": ["student", "msc"]
   },
   "jiaqi": {
