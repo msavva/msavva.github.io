@@ -518,5 +518,21 @@
   "svetlanaLazebnik": {
     "name": "Svetlana Lazebnik",
     "web": "https://slazebni.cs.illinois.edu/"
+  },
+  "xiangXu": {
+    "name": "Xiang Xu",
+    "web": "https://samxuxiang.github.io/"
+  },
+  "hanbyulJoo": {
+    "name": "Hanbyul Joo",
+    "web": "https://jhugestar.github.io/"
+  },
+  "andrewWestbury": {
+    "name": "Andrew Westbury",
+    "web": "https://www.linkedin.com/in/andrew-westbury-2757a31b"
+  },
+  "santhoshRamakrishnan": {
+    "name": "Santhosh Kumar Ramakrishnan",
+    "web": "https://srama2512.github.io/"
   }
 }

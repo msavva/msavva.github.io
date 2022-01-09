@@ -11,6 +11,17 @@
     "web": "https://aihabitat.org/"
   },
   {
+    "date": "2021-12",
+    "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
+    "authors": [
+      "santhoshRamakrishnan", "aaron", "erik", "oleksandr", "alex", "johnTurner", "ericUndersander",  "wojciechGaluba", "andrewWestbury", "angel", "manolis", "yili", "dhruv"
+    ],
+    "text": "NeurIPS 2021 Datasets & Benchmarks Track",
+    "img": "files/hm3d.jpg",
+    "pdf": "https://arxiv.org/pdf/2109.08238.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d/"
+  },
+  {
     "date": "2021-10",
     "title": "Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents",
     "authors": [
@@ -20,6 +31,17 @@
     "img": "files/comon.png",
     "pdf": "",
     "web": "https://shivanshpatel35.github.io/comon/"
+  },
+  {
+    "date": "2021-09",
+    "title": "D3D-HOI: Dynamic 3D Human-Object Interactions from Videos",
+    "authors": [
+      "xiangXu", "hanbyulJoo", "greg", "manolis"
+    ],
+    "text": "arXiv:2108.08420 [cs.CV]",
+    "img": "files/d3dhoi.jpg",
+    "pdf": "https://arxiv.org/abs/2108.08420",
+    "web": "https://github.com/facebookresearch/d3d-hoi"
   },
   {
     "date": "2021-06",
