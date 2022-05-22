@@ -353,7 +353,8 @@
   "jiaqi": {
     "name": "Jiaqi Tan",
     "web": "https://christinatan0704.github.io/mysite/",
-    "tags": ["student", "msc"]
+    "tags": ["student", "msc", "alum"],
+    "next": "PhD at SFU"
   },
   "shivansh": {
     "name": "Shivansh Patel",
