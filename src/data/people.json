@@ -345,9 +345,21 @@
     "web": "https://scholar.google.com/citations?user=boFO-7gAAAAJ&hl=en",
     "tags": ["student", "msc"]
   },
+  "jiayi": {
+    "name": "Jiayi Liu",
+    "web": "https://www.linkedin.com/in/jiayi-liu-878400193/",
+    "tags": ["student", "phd"]
+  },
+  "yiming": {
+    "name": "Yiming Zhang"
+  },
+  "xiaohao": {
+    "name": "Xiaohao Sun",
+    "web": "https://www.linkedin.com/in/xiaohao-sun-237537195"
+  },
   "yongsen": {
     "name": "Yongsen Mao",
-    "web": "",
+    "web": "https://github.com/SamMaoYS",
     "tags": ["student", "msc"]
   },
   "jiaqi": {

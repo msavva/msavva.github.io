@@ -1,5 +1,38 @@
 [
   {
+    "date": "2022-12",
+    "title": "MultiScan: Scalable RGBD scanning for 3D environments with articulated objects",
+    "authors": [
+      "yongsen", "yiming", "hanxiao", "angel", "manolis"
+    ],
+    "text": "NeurIPS 2022",
+    "img": "files/multiscan.png",
+    "pdf": "",
+    "web": ""
+  },
+  {
+    "date": "2022-10",
+    "title": "Articulated 3D Human-Object Interactions from RGB Videos: An Empirical Analysis of Approaches and Challenges",
+    "authors": [
+      "sanjayHaresh", "xiaohao", "hanxiao", "angel", "manolis"
+    ],
+    "text": "3DV 2022",
+    "img": "files/3dhoi.png",
+    "pdf": "https://arxiv.org/pdf/2209.05612.pdf",
+    "web": "https://3dlg-hcvc.github.io/3dhoi/"
+  },
+  {
+    "date": "2022-10",
+    "title": "OPD: Single-view 3D Openable Part Detection",
+    "authors": [
+      "hanxiao", "yongsen", "manolis", "angel"
+    ],
+    "text": "ECCV 2022",
+    "img": "files/opd.png",
+    "pdf": "https://arxiv.org/pdf/2203.16421.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPD/"
+  },
+  {
     "date": "2021-12",
     "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
     "authors": [
