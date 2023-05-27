@@ -1,5 +1,38 @@
 [
   {
+    "date": "2023-06",
+    "title": "Habitat-Matterport 3D Semantics Dataset",
+    "authors": [
+      "karmeshYadav", "ramRamrakhya", "santhoshRamakrishnan", "theoGervet", "johnTurner", "aaron", "noahMaestre", "angel", "dhruv", "manolis", "alex", "devendraChaplot"
+    ],
+    "text": "CVPR 2023",
+    "img": "files/hm3dsem.png",
+    "pdf": "https://arxiv.org/pdf/2210.05633.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d-semantics/"
+  },
+  {
+    "date": "2023-06",
+    "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
+    "authors": [
+      "supriya", "angel", "manolis"
+    ],
+    "text": "CRV 2023",
+    "img": "files/3drotinv.png",
+    "pdf": "",
+    "web": ""
+  },
+  {
+    "date": "2023-05",
+    "title": "Emergence of Maps in the Memories of Blind Navigation Agents",
+    "authors": [
+      "erik", "manolis", "irfan", "stefan", "ari", "dhruv"
+    ],
+    "text": "ICLR 2023, Outstanding Paper Award",
+    "img": "files/eom.jpg",
+    "pdf": "https://openreview.net/pdf?id=lTt4KjHSsyl",
+    "web": "https://wijmans.xyz/publication/eom/"
+  },
+  {
     "date": "2022-12",
     "title": "MultiScan: Scalable RGBD scanning for 3D environments with articulated objects",
     "authors": [

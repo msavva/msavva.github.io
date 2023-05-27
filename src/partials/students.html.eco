@@ -1,4 +1,5 @@
 <% @students = Object.values(@people).filter((x) => @hasField(x, 'tags', ['student']) ) %>
+<% @students = @students.sort((a,b) => return if a.name.toUpperCase() >= b.name.toUpperCase() then 1 else -1) %>
 <% @current = @students.filter((x) => not @hasField(x, 'tags', ['alum']) ) %>
 <% @alumni = @students.filter((x) => @hasField(x, 'tags', ['alum']) ) %>
 
@@ -11,5 +12,5 @@
 <h3>Alumni</h3>
 <hr>
 <% for p in @alumni: %>
-  <a href="<%= p.web %>"><%= p.name %></a> (next: <%= p.next %>)<br>
+  <a href="<%= p.web %>"><%= p.name %></a><% if p.next: %> (next: <%= p.next %>)<% end %><br>
 <% end %>

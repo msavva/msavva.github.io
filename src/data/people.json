@@ -332,7 +332,24 @@
   "supriya": {
     "name": "Supriya Pandhre",
     "web": "https://supriya-gdptl.github.io/",
-    "tags": ["student", "phd"]
+    "tags": ["student", "msc", "alum"]
+  },
+  "karmeshYadav": {
+    "name": "Karmesh Yadav",
+    "web": "https://www.karmeshyadav.com/"
+  },
+  "ramRamrakhya": {
+    "name": "Ram Ramrakhya",
+    "web": "https://ram81.github.io/"
+  },
+  "theoGervet": {
+    "name": "Theo Gervet",
+    "web": "https://theophilegervet.github.io/"
+  },
+  "arminKavian": {
+    "name": "Armin Kavian",
+    "web": "https://www.linkedin.com/in/armin-kavian/",
+    "tags": ["student", "msc"]
   },
   "madhawa": {
     "name": "Madhawa Vidanapathirana",
@@ -342,8 +359,9 @@
   },
   "sanjayHaresh": {
     "name": "Sanjay Haresh",
-    "web": "https://scholar.google.com/citations?user=boFO-7gAAAAJ&hl=en",
-    "tags": ["student", "msc"]
+    "web": "https://www.sanjayharesh.com/",
+    "tags": ["student", "msc", "alum"],
+    "next": "Qualcomm"
   },
   "jiayi": {
     "name": "Jiayi Liu",
