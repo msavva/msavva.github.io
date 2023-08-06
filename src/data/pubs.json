@@ -1,5 +1,27 @@
 [
   {
+    "date": "2023-10",
+    "title": "PARIS: Part-level Reconstruction and Motion Analysis for Articulated Objects",
+    "authors": [
+      "jiayi", "ali", "manolis"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/paris.png",
+    "pdf": "https://3dlg-hcvc.github.io/paris/",
+    "web": "https://3dlg-hcvc.github.io/paris/"
+  },
+  {
+    "date": "2023-06",
+    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+    "authors": [
+      "mukul", "yongsen", "hanxiao", "sanjayHaresh", "brennan", "dhruv", "alex", "ericUndersander", "angel", "manolis"
+    ],
+    "text": "arXiv:2306.11290 [cs.CV]",
+    "img": "files/hssd.png",
+    "pdf": "https://arxiv.org/pdf/2306.11290",
+    "web": "https://3dlg-hcvc.github.io/hssd/"
+  },
+  {
     "date": "2023-06",
     "title": "Habitat-Matterport 3D Semantics Dataset",
     "authors": [
@@ -12,14 +34,25 @@
   },
   {
     "date": "2023-06",
+    "title": "3DSSR: 3D Subscene Retrieval",
+    "authors": [
+      "reza", "manolis"
+    ],
+    "text": "CVPR 2023  Workshop on Structural and Compositional Learning on 3D Data",
+    "img": "files/3dssr.png",
+    "pdf": "https://struco3d.github.io/cvpr2023/papers/02.pdf",
+    "web": "https://github.com/reza-asad/3DSSR"
+  },
+  {
+    "date": "2023-06",
     "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
     "authors": [
       "supriya", "angel", "manolis"
     ],
     "text": "CRV 2023",
     "img": "files/3drotinv.png",
-    "pdf": "",
-    "web": ""
+    "pdf": "https://arxiv.org/abs/2305.18557",
+    "web": "https://supriya-gdptl.github.io/papers/evaluate3d.html"
   },
   {
     "date": "2023-05",
@@ -31,6 +64,17 @@
     "img": "files/eom.jpg",
     "pdf": "https://openreview.net/pdf?id=lTt4KjHSsyl",
     "web": "https://wijmans.xyz/publication/eom/"
+  },
+  {
+    "date": "2023-04",
+    "title": "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes",
+    "authors": [
+      "akshay", "supriya", "manyi", "matt", "manolis", "richard"
+    ],
+    "text": "Computer Graphics Forum 2023",
+    "img": "files/scene-survey.png",
+    "pdf": "https://arxiv.org/pdf/2304.03188",
+    "web": "https://arxiv.org/abs/2304.03188"
   },
   {
     "date": "2022-12",

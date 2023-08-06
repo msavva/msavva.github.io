@@ -327,10 +327,11 @@
   "reza": {
     "name": "Reza Asad",
     "web": "https://github.com/reza-asad",
+    "note": "(co-advised with Sharan Vaswani)",
     "tags": ["student", "phd"]
   },
   "supriya": {
-    "name": "Supriya Pandhre",
+    "name": "Supriya Gadi Patil",
     "web": "https://supriya-gdptl.github.io/",
     "tags": ["student", "msc", "alum"]
   },
@@ -365,9 +366,13 @@
   },
   "jiayi": {
     "name": "Jiayi Liu",
-    "web": "https://www.linkedin.com/in/jiayi-liu-878400193/",
+    "web": "https://sevenljy.github.io/",
     "note": "(co-advised with Ali Mahdavi-Amiri)",
     "tags": ["student", "phd"]
+  },
+  "ali": {
+    "name": "Ali Mahdavi-Amiri",
+    "web": "https://www.sfu.ca/~amahdavi/"
   },
   "yiming": {
     "name": "Yiming Zhang"
@@ -378,8 +383,8 @@
   },
   "yongsen": {
     "name": "Yongsen Mao",
-    "web": "https://github.com/SamMaoYS",
-    "tags": ["student", "msc"]
+    "web": "https://sammaoys.github.io/",
+    "tags": ["student", "phd"]
   },
   "jiaqi": {
     "name": "Jiaqi Tan",
@@ -566,5 +571,9 @@
   "santhoshRamakrishnan": {
     "name": "Santhosh Kumar Ramakrishnan",
     "web": "https://srama2512.github.io/"
+  },
+  "mukul": {
+    "name": "Mukul Khanna",
+    "web": "https://mukulkhanna.github.io/"
   }
 }
