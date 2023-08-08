@@ -12,17 +12,6 @@
   },
   {
     "date": "2023-06",
-    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
-    "authors": [
-      "mukul", "yongsen", "hanxiao", "sanjayHaresh", "brennan", "dhruv", "alex", "ericUndersander", "angel", "manolis"
-    ],
-    "text": "arXiv:2306.11290 [cs.CV]",
-    "img": "files/hssd.png",
-    "pdf": "https://arxiv.org/pdf/2306.11290",
-    "web": "https://3dlg-hcvc.github.io/hssd/"
-  },
-  {
-    "date": "2023-06",
     "title": "Habitat-Matterport 3D Semantics Dataset",
     "authors": [
       "karmeshYadav", "ramRamrakhya", "santhoshRamakrishnan", "theoGervet", "johnTurner", "aaron", "noahMaestre", "angel", "dhruv", "manolis", "alex", "devendraChaplot"
@@ -64,17 +53,6 @@
     "img": "files/eom.jpg",
     "pdf": "https://openreview.net/pdf?id=lTt4KjHSsyl",
     "web": "https://wijmans.xyz/publication/eom/"
-  },
-  {
-    "date": "2023-04",
-    "title": "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes",
-    "authors": [
-      "akshay", "supriya", "manyi", "matt", "manolis", "richard"
-    ],
-    "text": "Computer Graphics Forum 2023",
-    "img": "files/scene-survey.png",
-    "pdf": "https://arxiv.org/pdf/2304.03188",
-    "web": "https://arxiv.org/abs/2304.03188"
   },
   {
     "date": "2022-12",

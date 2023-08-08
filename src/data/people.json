@@ -326,7 +326,7 @@
   },
   "reza": {
     "name": "Reza Asad",
-    "web": "https://github.com/reza-asad",
+    "web": "https://reza-asad.github.io/",
     "note": "(co-advised with Sharan Vaswani)",
     "tags": ["student", "phd"]
   },
@@ -351,6 +351,17 @@
     "name": "Armin Kavian",
     "web": "https://www.linkedin.com/in/armin-kavian/",
     "tags": ["student", "msc"]
+  },
+  "ivanTam": {
+    "name": "Hou In (Ivan) Tam",
+    "web": "",
+    "tags": ["student", "msc"]
+  },
+  "xiaoliangHuo": {
+    "name": "Xiaoliang Huo",
+    "web": "",
+    "note": "(co-advised with Angel Chang)",
+    "tags": ["student", "phd"]
   },
   "madhawa": {
     "name": "Madhawa Vidanapathirana",
