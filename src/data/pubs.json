@@ -11,6 +11,17 @@
     "web": "https://3dlg-hcvc.github.io/paris/"
   },
   {
+    "date": "2023-08",
+    "title": "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes",
+    "authors": [
+      "akshay", "supriya", "manyi", "matt", "manolis", "richard"
+    ],
+    "text": "Computer Graphics Forum 2023 STAR (State of the Art Report)",
+    "img": "files/scene-survey.png",
+    "pdf": "https://arxiv.org/pdf/2304.03188",
+    "web": "https://arxiv.org/abs/2304.03188"
+  },
+  {
     "date": "2023-06",
     "title": "Habitat-Matterport 3D Semantics Dataset",
     "authors": [
