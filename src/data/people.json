@@ -586,5 +586,33 @@
   "mukul": {
     "name": "Mukul Khanna",
     "web": "https://mukulkhanna.github.io/"
+  },
+  "chrisPaxton": {
+    "name": "Chris Paxton",
+    "web": "https://cpaxton.github.io/about/"
+  },
+  "yonatanBisk": {
+    "name": "Yonatan Bisk",
+    "web": "https://yonatanbisk.com/"
+  },
+  "vidhiJain": {
+    "name": "Vidhi Jain",
+    "web": "https://vidhijain.github.io/"
+  },
+  "jimmyYang": {
+    "name": "Jimmy (Tsung-Yen) Yang",
+    "web": "https://sites.google.com/view/tyjimmyyang"
+  },
+  "sriramYenamandra": {
+    "name": "Sriram Yenamandra",
+    "web": "https://yvsriram.github.io/"
+  },
+  "arunRamachandran": {
+    "name": "Arun Ramachandran",
+    "web": "https://arunram.me/"
+  },
+  "austinWangMeta": {
+    "name": "Austin Wang",
+    "web": "https://www.linkedin.com/in/austinspwang/"
   }
 }

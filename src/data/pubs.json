@@ -1,5 +1,16 @@
 [
   {
+    "date": "2023-12",
+    "title": "HomeRobot: Open Vocabulary Mobile Manipulation",
+    "authors": [
+      "sriramYenamandra", "arunRamachandran", "karmeshYadav", "austinWangMeta", "mukul", "theoGervet", "jimmyYang", "vidhiJain", "alex", "johnTurner", "zsoltKira", "manolis", "angel", "devendraChaplot", "dhruv", "roozbeh", "yonatanBisk", "chrisPaxton"
+    ],
+    "text": "CoRL 2023",
+    "img": "files/homerobot.jpg",
+    "pdf": "https://arxiv.org/pdf/2306.11565.pdf",
+    "web": "https://ovmm.github.io/"
+  },
+  {
     "date": "2023-10",
     "title": "PARIS: Part-level Reconstruction and Motion Analysis for Articulated Objects",
     "authors": [
