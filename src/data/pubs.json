@@ -1,5 +1,79 @@
 [
   {
+    "date": "2024-06",
+    "title": "CAGE: Controllable Articulation GEneration",
+    "authors": ["jiayi", "ivanTam", "ali", "manolis"],
+    "text": "CVPR 2024",
+    "img": "files/cage.gif",
+    "pdf": "https://arxiv.org/pdf/2312.09570",
+    "web": "https://3dlg-hcvc.github.io/cage/"
+  },
+  {
+    "date": "2023-06",
+    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+    "authors": ["mukul", "yongsen", "hanxiao", "sanjayHaresh", "brennan", "dhruv", "alex", "ericUndersander", "angel", "manolis"],
+    "text": "CVPR 2024",
+    "img": "files/hssd.png",
+    "pdf": "https://arxiv.org/pdf/2306.11290",
+    "web": "https://3dlg-hcvc.github.io/hssd/"
+  },
+  {
+    "date": "2023-06",
+    "title": "Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives",
+    "authors": ["Kristen Grauman", "...", "sanjayHaresh", "...", "yongsen", "...", "manolis", "..."],
+    "text": "CVPR 2024",
+    "img": "files/egoexo4d.png",
+    "pdf": "https://arxiv.org/pdf/2311.18259",
+    "web": "https://ego-exo4d-data.org/"
+  },
+  {
+    "date": "2024-04",
+    "title": "Text-to-3D Shape Generation",
+    "authors": ["hanhung", "manolis", "angel"],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2024",
+    "img": "files/tt3dstar.png",
+    "pdf": "https://arxiv.org/pdf/2403.13289",
+    "web": "https://3dlg-hcvc.github.io/tt3dstar/"
+  },
+  {
+    "date": "2024-03",
+    "title": "Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects",
+    "authors": ["qirui", "daniel", "manolis", "angel"],
+    "text": "3DV 2024",
+    "img": "files/genshaperetr.png",
+    "pdf": "https://arxiv.org/pdf/2401.00405.pdf",
+    "web": "https://3dlg-hcvc.github.io/generalizing_shape_retrieval/"
+  },
+  {
+    "date": "2024-03",
+    "title": "OPDMulti: Openable Part Detection for Multiple Objects",
+    "authors": [
+      "xiaohao",
+      "hanxiao",
+      "manolis",
+      "angel"
+    ],
+    "text": "3DV 2024",
+    "img": "files/opdmulti.png",
+    "pdf": "https://arxiv.org/pdf/2303.14087.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPDMulti/"
+  },
+  {
+    "date": "2024-01",
+    "title": "MOPA: Modular Object Navigation with PointGoal Agents",
+    "authors": [
+      "sonia",
+      "tommasoCampari",
+      "unnat",
+      "manolis",
+      "angel"
+    ],
+    "text": "WACV 2024",
+    "img": "files/mopa.gif",
+    "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
+    "web": "https://3dlg-hcvc.github.io/mopa/"
+  },
+  {
     "date": "2023-12",
     "title": "HomeRobot: Open Vocabulary Mobile Manipulation",
     "authors": [

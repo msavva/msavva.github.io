@@ -614,5 +614,13 @@
   "austinWangMeta": {
     "name": "Austin Wang",
     "web": "https://www.linkedin.com/in/austinspwang/"
+  },
+  "tommasoCampari": {
+    "name": "Tommaso Campari",
+    "web": "https://www.tommasocampari.com/"
+  },
+  "hanhung": {
+    "name": "Han-Hung Lee",
+    "web": "https://hanhung.github.io/"
   }
 }
