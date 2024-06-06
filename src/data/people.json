@@ -354,7 +354,7 @@
   },
   "ivanTam": {
     "name": "Hou In (Ivan) Tam",
-    "web": "",
+    "web": "https://iv-t.github.io/",
     "tags": ["student", "msc"]
   },
   "xiaoliangHuo": {
@@ -622,5 +622,10 @@
   "hanhung": {
     "name": "Han-Hung Lee",
     "web": "https://hanhung.github.io/"
+  },
+  "derekPun": {
+    "name": "Hou In (Derek) Pun",
+    "web": "https://houip.github.io/portfolio/",
+    "tags": ["student", "msc"]
   }
 }
