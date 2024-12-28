@@ -350,7 +350,7 @@
   "arminKavian": {
     "name": "Armin Kavian",
     "web": "https://www.linkedin.com/in/armin-kavian/",
-    "tags": ["student", "msc"]
+    "tags": ["student", "msc", "alum"]
   },
   "ivanTam": {
     "name": "Hou In (Ivan) Tam",
@@ -359,9 +359,7 @@
   },
   "xiaoliangHuo": {
     "name": "Xiaoliang Huo",
-    "web": "",
-    "note": "(co-advised with Angel Chang)",
-    "tags": ["student", "phd"]
+    "web": ""
   },
   "madhawa": {
     "name": "Madhawa Vidanapathirana",
@@ -386,7 +384,8 @@
     "web": "https://www.sfu.ca/~amahdavi/"
   },
   "yiming": {
-    "name": "Yiming Zhang"
+    "name": "Yiming Zhang",
+    "web": "https://scholar.google.ca/citations?user=scUaE38AAAAJ"
   },
   "xiaohao": {
     "name": "Xiaohao Sun",
@@ -395,7 +394,8 @@
   "yongsen": {
     "name": "Yongsen Mao",
     "web": "https://sammaoys.github.io/",
-    "tags": ["student", "phd"]
+    "tags": ["student", "msc", "alum"],
+    "next": "KuJiaLe AI"
   },
   "jiaqi": {
     "name": "Jiaqi Tan",
@@ -627,5 +627,23 @@
     "name": "Hou In (Derek) Pun",
     "web": "https://houip.github.io/portfolio/",
     "tags": ["student", "msc"]
+  },
+  "austinWang": {
+    "name": "Austin T. Wang",
+    "web": "https://atwang16.github.io/"
+  },
+  "denys": {
+    "name": "Denys Iliash",
+    "web": "https://scholar.google.com/citations?user=guExFlYAAAAJ"
+  },
+  "dongchen": {
+    "name": "Dongchen Yang",
+    "web": "https://www.sfu.ca/~dya78/",
+    "tags": ["student", "phd"]
+  },
+  "weikun": {
+    "name": "Weikun Peng",
+    "web": "",
+    "tags": ["student", "phd"]
   }
 }

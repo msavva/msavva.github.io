@@ -1,6 +1,6 @@
 <h3>Publications</h3>
 <hr>
-<% for p in @pubs: %>
+<% for p in @pubs when not p.preprint : %>
   <div class="row paper">
     <div class="col-sm-3 paper-img">
     <% if p.img: %>

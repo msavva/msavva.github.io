@@ -1,5 +1,63 @@
 [
   {
+    "date": "2025-03",
+    "title": "SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements",
+    "authors": ["ivanTam", "derekPun", "austinWang", "angel", "manolis"],
+    "text": "3DV 2025",
+    "img": "files/smc.png",
+    "web": "https://3dlg-hcvc.github.io/smc/",
+    "pdf": "https://arxiv.org/pdf/2408.02211"
+  },
+  {
+    "date": "2024-11",
+    "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
+    "authors": ["qirui", "denys", "daniel", "manolis", "angel"],
+    "text": "arXiv:2411.19492 [cs.CV]",
+    "img": "files/diorama.webp",
+    "web": "https://3dlg-hcvc.github.io/diorama/",
+    "pdf": "https://arxiv.org/pdf/2411.19492",
+    "preprint": true
+  },
+  {
+    "date": "2024-10",
+    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
+    "authors": ["jiayi", "denys", "angel", "manolis", "ali"],
+    "text": "arXiv:2410.16499 [cs.CV]",
+    "img": "files/singapo.png",
+    "web": "https://3dlg-hcvc.github.io/singapo/",
+    "pdf": "https://arxiv.org/pdf/2410.16499",
+    "preprint": true
+  },
+  {
+    "date": "2024-10",
+    "title": "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
+    "authors": ["qirui", "sonia", "daniel", "manolis", "angel"],
+    "text": "ECCV 2024",
+    "img": "files/r3ds.webp",
+    "web": "https://3dlg-hcvc.github.io/r3ds/",
+    "pdf": "https://arxiv.org/pdf/2403.12301"
+  },
+  {
+    "date": "2024-10",
+    "title": "Survey on Modeling of Human-made Articulated Objects",
+    "authors": ["jiayi", "manolis", "ali"],
+    "text": "arXiv:2403.14937 [cs.CV]",
+    "img": "files/artstar.png",
+    "web": "https://arxiv.org/abs/2403.14937",
+    "pdf": "https://arxiv.org/pdf/2403.14937",
+    "preprint": true
+  },
+  {
+    "date": "2024-09",
+    "title": "S2O: Static to Openable Enhancement for Articulated 3D Objects",
+    "authors": ["denys", "hanxiao", "yiming", "manolis", "angel"],
+    "text": "arXiv:2409.18896 [cs.CV]",
+    "img": "files/s2o.png",
+    "web": "https://3dlg-hcvc.github.io/s2o/",
+    "pdf": "https://arxiv.org/pdf/2409.18896",
+    "preprint": true
+  },
+  {
     "date": "2024-06",
     "title": "CAGE: Controllable Articulation GEneration",
     "authors": ["jiayi", "ivanTam", "ali", "manolis"],
@@ -9,7 +67,7 @@
     "web": "https://3dlg-hcvc.github.io/cage/"
   },
   {
-    "date": "2023-06",
+    "date": "2024-06",
     "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
     "authors": ["mukul", "yongsen", "hanxiao", "sanjayHaresh", "brennan", "dhruv", "alex", "ericUndersander", "angel", "manolis"],
     "text": "CVPR 2024",
@@ -18,7 +76,7 @@
     "web": "https://3dlg-hcvc.github.io/hssd/"
   },
   {
-    "date": "2023-06",
+    "date": "2024-06",
     "title": "Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives",
     "authors": ["Kristen Grauman", "...", "sanjayHaresh", "...", "yongsen", "...", "manolis", "..."],
     "text": "CVPR 2024",
@@ -158,8 +216,8 @@
     ],
     "text": "NeurIPS 2022",
     "img": "files/multiscan.png",
-    "pdf": "",
-    "web": ""
+    "pdf": "https://openreview.net/pdf?id=YxUdazpgweG",
+    "web": "https://3dlg-hcvc.github.io/multiscan/"
   },
   {
     "date": "2022-10",
@@ -213,7 +271,7 @@
     ],
     "text": "ICCV 2021",
     "img": "files/comon.png",
-    "pdf": "",
+    "pdf": "https://arxiv.org/abs/2110.05769",
     "web": "https://shivanshpatel35.github.io/comon/"
   },
   {
