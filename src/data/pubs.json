@@ -1,5 +1,14 @@
 [
   {
+    "date": "2025-04",
+    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
+    "authors": ["jiayi", "denys", "angel", "manolis", "ali"],
+    "text": "ICLR 2025",
+    "img": "files/singapo.png",
+    "web": "https://3dlg-hcvc.github.io/singapo/",
+    "pdf": "https://arxiv.org/pdf/2410.16499"
+  },
+  {
     "date": "2025-03",
     "title": "SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements",
     "authors": ["ivanTam", "derekPun", "austinWang", "angel", "manolis"],
@@ -16,16 +25,6 @@
     "img": "files/diorama.webp",
     "web": "https://3dlg-hcvc.github.io/diorama/",
     "pdf": "https://arxiv.org/pdf/2411.19492",
-    "preprint": true
-  },
-  {
-    "date": "2024-10",
-    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
-    "authors": ["jiayi", "denys", "angel", "manolis", "ali"],
-    "text": "arXiv:2410.16499 [cs.CV]",
-    "img": "files/singapo.png",
-    "web": "https://3dlg-hcvc.github.io/singapo/",
-    "pdf": "https://arxiv.org/pdf/2410.16499",
     "preprint": true
   },
   {

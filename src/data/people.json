@@ -350,7 +350,8 @@
   "arminKavian": {
     "name": "Armin Kavian",
     "web": "https://www.linkedin.com/in/armin-kavian/",
-    "tags": ["student", "msc", "alum"]
+    "tags": ["student", "msc", "alum"],
+    "next": "CC&L"
   },
   "ivanTam": {
     "name": "Hou In (Ivan) Tam",
@@ -371,7 +372,7 @@
     "name": "Sanjay Haresh",
     "web": "https://www.sanjayharesh.com/",
     "tags": ["student", "msc", "alum"],
-    "next": "Qualcomm"
+    "next": "Qualcomm AI"
   },
   "jiayi": {
     "name": "Jiayi Liu",
