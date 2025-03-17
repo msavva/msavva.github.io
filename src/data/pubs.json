@@ -1,5 +1,14 @@
 [
   {
+    "date": "2025-05",
+    "title": "Survey on Modeling of Human-made Articulated Objects",
+    "authors": ["jiayi", "manolis", "ali"],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2025",
+    "img": "files/artstar.png",
+    "web": "https://arxiv.org/abs/2403.14937",
+    "pdf": "https://arxiv.org/pdf/2403.14937"
+  },
+  {
     "date": "2025-04",
     "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
     "authors": ["jiayi", "denys", "angel", "manolis", "ali"],
