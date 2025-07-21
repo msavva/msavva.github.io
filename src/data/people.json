@@ -646,5 +646,17 @@
     "name": "Weikun Peng",
     "web": "",
     "tags": ["student", "phd"]
+  },
+  "moChen": {
+    "name": "Mo Chen",
+    "web": "https://sfumars.com/people/"
+  },
+  "mohammadMahdavian": {
+    "name": "Mohammad Mahdavian",
+    "web": "https://scholar.google.com/citations?user=fhTJ8m4AAAAJ&hl=en"
+  },
+  "pedramAgand": {
+    "name": "Pedram Agand",
+    "web": "https://scholar.google.com/citations?user=URfHnY4AAAAJ&hl=en"
   }
 }
