@@ -360,7 +360,15 @@
   },
   "xiaoliangHuo": {
     "name": "Xiaoliang Huo",
-    "web": ""
+    "web": "https://scholar.google.com/citations?user=h2FPSRsAAAAJ"
+  },
+  "junLv": {
+    "name": "Jun Lv",
+    "web": "https://lyuj1998.github.io/"
+  },
+  "cewuLu": {
+    "name": "Cewu Lu",
+    "web": "https://www.mvig.org/"
   },
   "madhawa": {
     "name": "Madhawa Vidanapathirana",
@@ -644,7 +652,7 @@
   },
   "weikun": {
     "name": "Weikun Peng",
-    "web": "",
+    "web": "https://willipwk.github.io/",
     "tags": ["student", "phd"]
   },
   "moChen": {

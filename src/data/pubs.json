@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-03",
+    "title": "HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation",
+    "authors": ["derekPun", "ivanTam", "austinWang", "xiaoliangHuo", "angel", "manolis"],
+    "text": "3DV 2026",
+    "img": "files/hsm.png",
+    "web": "https://3dlg-hcvc.github.io/hsm/",
+    "pdf": "https://arxiv.org/pdf/2503.16848"
+  },
+  {
+    "date": "2026-03",
+    "title": "iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos",
+    "authors": ["weikun", "junLv", "cewuLu", "manolis"],
+    "text": "3DV 2026",
+    "img": "files/itaco.png",
+    "web": "https://3dlg-hcvc.github.io/video2articulation/",
+    "pdf": "https://arxiv.org/pdf/2506.08334"
+  },
+  {
+    "date": "2026-01",
+    "title": "SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis",
+    "authors": ["ivanTam", "derekPun", "austinWang", "angel", "manolis"],
+    "text": "WACV 2026",
+    "img": "files/sceneeval.png",
+    "web": "https://3dlg-hcvc.github.io/SceneEval/",
+    "pdf": "https://arxiv.org/pdf/2503.14756"
+  },
+  {
+    "date": "2026-01",
+    "title": "S2O: Static to Openable Enhancement for Articulated 3D Objects",
+    "authors": ["denys", "hanxiao", "yiming", "manolis", "angel"],
+    "text": "WACV 2026",
+    "img": "files/s2o.png",
+    "web": "https://3dlg-hcvc.github.io/s2o/",
+    "pdf": "https://arxiv.org/pdf/2409.18896"
+  },
+  {
     "date": "2025-10",
     "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
     "authors": ["qirui", "denys", "daniel", "manolis", "angel"],
@@ -62,16 +98,6 @@
     "img": "files/dmfuser.png",
     "web": "https://github.com/mmahdavian/DMFuser",
     "pdf": "https://ieeexplore.ieee.org/document/10802740"
-  },
-  {
-    "date": "2024-09",
-    "title": "S2O: Static to Openable Enhancement for Articulated 3D Objects",
-    "authors": ["denys", "hanxiao", "yiming", "manolis", "angel"],
-    "text": "arXiv:2409.18896 [cs.CV]",
-    "img": "files/s2o.png",
-    "web": "https://3dlg-hcvc.github.io/s2o/",
-    "pdf": "https://arxiv.org/pdf/2409.18896",
-    "preprint": true
   },
   {
     "date": "2024-06",
