@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
+@media only screen and (min-width: 1200px) {
+  .container {
+    width: 1300px;
+  }
+}
+body {
+  font-family: Lato;
+}
+hr {
+  margin-top: 0px;
+  margin-bottom: 1em;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 1em;
+  margin-bottom: 0px;
+  font-variant-caps: small-caps;
+}
+h3,
+h4 {
+  font-weight: bold;
+}
+a,
+a:hover {
+  color: #8c1515;
+}
+.vertical-center,
+.paper-img {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -o-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.paper {
+  padding-bottom: 1em;
+}
+.paper-title {
+  font-weight: bold;
+  color: #8c1515;
+}
+.project-img {
+  min-height: 200px;
+}

@@ -1,0 +1,878 @@
+[
+  {
+    "date": "2026-03",
+    "title": "HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation",
+    "authors": ["derekPun", "ivanTam", "austinWang", "xiaoliangHuo", "angel", "manolis"],
+    "text": "3DV 2026",
+    "img": "files/hsm.png",
+    "web": "https://3dlg-hcvc.github.io/hsm/",
+    "pdf": "https://arxiv.org/pdf/2503.16848"
+  },
+  {
+    "date": "2026-03",
+    "title": "iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos",
+    "authors": ["weikun", "junLv", "cewuLu", "manolis"],
+    "text": "3DV 2026",
+    "img": "files/itaco.png",
+    "web": "https://3dlg-hcvc.github.io/video2articulation/",
+    "pdf": "https://arxiv.org/pdf/2506.08334"
+  },
+  {
+    "date": "2026-01",
+    "title": "SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis",
+    "authors": ["ivanTam", "derekPun", "austinWang", "angel", "manolis"],
+    "text": "WACV 2026",
+    "img": "files/sceneeval.png",
+    "web": "https://3dlg-hcvc.github.io/SceneEval/",
+    "pdf": "https://arxiv.org/pdf/2503.14756"
+  },
+  {
+    "date": "2026-01",
+    "title": "S2O: Static to Openable Enhancement for Articulated 3D Objects",
+    "authors": ["denys", "hanxiao", "yiming", "manolis", "angel"],
+    "text": "WACV 2026",
+    "img": "files/s2o.png",
+    "web": "https://3dlg-hcvc.github.io/s2o/",
+    "pdf": "https://arxiv.org/pdf/2409.18896"
+  },
+  {
+    "date": "2025-10",
+    "title": "Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling",
+    "authors": ["qirui", "denys", "daniel", "manolis", "angel"],
+    "text": "ICCV 2025",
+    "img": "files/diorama.webp",
+    "web": "https://3dlg-hcvc.github.io/diorama/",
+    "pdf": "https://arxiv.org/pdf/2411.19492"
+  },
+  {
+    "date": "2025-05",
+    "title": "Survey on Modeling of Human-made Articulated Objects",
+    "authors": ["jiayi", "manolis", "ali"],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2025",
+    "img": "files/artstar.png",
+    "web": "https://arxiv.org/abs/2403.14937",
+    "pdf": "https://arxiv.org/pdf/2403.14937"
+  },
+  {
+    "date": "2025-04",
+    "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
+    "authors": ["jiayi", "denys", "angel", "manolis", "ali"],
+    "text": "ICLR 2025",
+    "img": "files/singapo.png",
+    "web": "https://3dlg-hcvc.github.io/singapo/",
+    "pdf": "https://arxiv.org/pdf/2410.16499"
+  },
+  {
+    "date": "2025-03",
+    "title": "SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements",
+    "authors": ["ivanTam", "derekPun", "austinWang", "angel", "manolis"],
+    "text": "3DV 2025",
+    "img": "files/smc.png",
+    "web": "https://3dlg-hcvc.github.io/smc/",
+    "pdf": "https://arxiv.org/pdf/2408.02211"
+  },
+  {
+    "date": "2024-10",
+    "title": "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
+    "authors": ["qirui", "sonia", "daniel", "manolis", "angel"],
+    "text": "ECCV 2024",
+    "img": "files/r3ds.webp",
+    "web": "https://3dlg-hcvc.github.io/r3ds/",
+    "pdf": "https://arxiv.org/pdf/2403.12301"
+  },
+  {
+    "date": "2024-10",
+    "title": "Survey on Modeling of Human-made Articulated Objects",
+    "authors": ["jiayi", "manolis", "ali"],
+    "text": "arXiv:2403.14937 [cs.CV]",
+    "img": "files/artstar.png",
+    "web": "https://arxiv.org/abs/2403.14937",
+    "pdf": "https://arxiv.org/pdf/2403.14937",
+    "preprint": true
+  },
+  {
+    "date": "2024-10",
+    "title": "DMFuser: Distilled Multi-Task Learning for End-to-end Transformer-Based Sensor Fusion in Autonomous Driving",
+    "authors": ["pedramAgand", "mohammadMahdavian", "manolis", "moChen"],
+    "text": "IROS 2024",
+    "img": "files/dmfuser.png",
+    "web": "https://github.com/mmahdavian/DMFuser",
+    "pdf": "https://ieeexplore.ieee.org/document/10802740"
+  },
+  {
+    "date": "2024-06",
+    "title": "CAGE: Controllable Articulation GEneration",
+    "authors": ["jiayi", "ivanTam", "ali", "manolis"],
+    "text": "CVPR 2024",
+    "img": "files/cage.gif",
+    "pdf": "https://arxiv.org/pdf/2312.09570",
+    "web": "https://3dlg-hcvc.github.io/cage/"
+  },
+  {
+    "date": "2024-06",
+    "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+    "authors": ["mukul", "yongsen", "hanxiao", "sanjayHaresh", "brennan", "dhruv", "alex", "ericUndersander", "angel", "manolis"],
+    "text": "CVPR 2024",
+    "img": "files/hssd.png",
+    "pdf": "https://arxiv.org/pdf/2306.11290",
+    "web": "https://3dlg-hcvc.github.io/hssd/"
+  },
+  {
+    "date": "2024-06",
+    "title": "Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives",
+    "authors": ["Kristen Grauman", "...", "sanjayHaresh", "...", "yongsen", "...", "manolis", "..."],
+    "text": "CVPR 2024",
+    "img": "files/egoexo4d.png",
+    "pdf": "https://arxiv.org/pdf/2311.18259",
+    "web": "https://ego-exo4d-data.org/"
+  },
+  {
+    "date": "2024-04",
+    "title": "Text-to-3D Shape Generation",
+    "authors": ["hanhung", "manolis", "angel"],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2024",
+    "img": "files/tt3dstar.png",
+    "pdf": "https://arxiv.org/pdf/2403.13289",
+    "web": "https://3dlg-hcvc.github.io/tt3dstar/"
+  },
+  {
+    "date": "2024-03",
+    "title": "Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects",
+    "authors": ["qirui", "daniel", "manolis", "angel"],
+    "text": "3DV 2024",
+    "img": "files/genshaperetr.png",
+    "pdf": "https://arxiv.org/pdf/2401.00405.pdf",
+    "web": "https://3dlg-hcvc.github.io/generalizing_shape_retrieval/"
+  },
+  {
+    "date": "2024-03",
+    "title": "OPDMulti: Openable Part Detection for Multiple Objects",
+    "authors": [
+      "xiaohao",
+      "hanxiao",
+      "manolis",
+      "angel"
+    ],
+    "text": "3DV 2024",
+    "img": "files/opdmulti.png",
+    "pdf": "https://arxiv.org/pdf/2303.14087.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPDMulti/"
+  },
+  {
+    "date": "2024-01",
+    "title": "MOPA: Modular Object Navigation with PointGoal Agents",
+    "authors": [
+      "sonia",
+      "tommasoCampari",
+      "unnat",
+      "manolis",
+      "angel"
+    ],
+    "text": "WACV 2024",
+    "img": "files/mopa.gif",
+    "pdf": "https://arxiv.org/pdf/2304.03696.pdf",
+    "web": "https://3dlg-hcvc.github.io/mopa/"
+  },
+  {
+    "date": "2023-12",
+    "title": "HomeRobot: Open Vocabulary Mobile Manipulation",
+    "authors": [
+      "sriramYenamandra", "arunRamachandran", "karmeshYadav", "austinWangMeta", "mukul", "theoGervet", "jimmyYang", "vidhiJain", "alex", "johnTurner", "zsoltKira", "manolis", "angel", "devendraChaplot", "dhruv", "roozbeh", "yonatanBisk", "chrisPaxton"
+    ],
+    "text": "CoRL 2023",
+    "img": "files/homerobot.jpg",
+    "pdf": "https://arxiv.org/pdf/2306.11565.pdf",
+    "web": "https://ovmm.github.io/"
+  },
+  {
+    "date": "2023-10",
+    "title": "PARIS: Part-level Reconstruction and Motion Analysis for Articulated Objects",
+    "authors": [
+      "jiayi", "ali", "manolis"
+    ],
+    "text": "ICCV 2023",
+    "img": "files/paris.png",
+    "pdf": "https://3dlg-hcvc.github.io/paris/",
+    "web": "https://3dlg-hcvc.github.io/paris/"
+  },
+  {
+    "date": "2023-08",
+    "title": "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes",
+    "authors": [
+      "akshay", "supriya", "manyi", "matt", "manolis", "richard"
+    ],
+    "text": "Computer Graphics Forum 2023 STAR (State of the Art Report)",
+    "img": "files/scene-survey.png",
+    "pdf": "https://arxiv.org/pdf/2304.03188",
+    "web": "https://arxiv.org/abs/2304.03188"
+  },
+  {
+    "date": "2023-06",
+    "title": "Habitat-Matterport 3D Semantics Dataset",
+    "authors": [
+      "karmeshYadav", "ramRamrakhya", "santhoshRamakrishnan", "theoGervet", "johnTurner", "aaron", "noahMaestre", "angel", "dhruv", "manolis", "alex", "devendraChaplot"
+    ],
+    "text": "CVPR 2023",
+    "img": "files/hm3dsem.png",
+    "pdf": "https://arxiv.org/pdf/2210.05633.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d-semantics/"
+  },
+  {
+    "date": "2023-06",
+    "title": "3DSSR: 3D Subscene Retrieval",
+    "authors": [
+      "reza", "manolis"
+    ],
+    "text": "CVPR 2023  Workshop on Structural and Compositional Learning on 3D Data",
+    "img": "files/3dssr.png",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2023W/StruCo3D/papers/Asad_3DSSR_3D_Subscene_Retrieval_CVPRW_2023_paper.pdf",
+    "web": "https://github.com/reza-asad/3DSSR"
+  },
+  {
+    "date": "2023-06",
+    "title": "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance",
+    "authors": [
+      "supriya", "angel", "manolis"
+    ],
+    "text": "CRV 2023",
+    "img": "files/3drotinv.png",
+    "pdf": "https://arxiv.org/abs/2305.18557",
+    "web": "https://supriya-gdptl.github.io/papers/evaluate3d.html"
+  },
+  {
+    "date": "2023-05",
+    "title": "Emergence of Maps in the Memories of Blind Navigation Agents",
+    "authors": [
+      "erik", "manolis", "irfan", "stefan", "ari", "dhruv"
+    ],
+    "text": "ICLR 2023, Outstanding Paper Award",
+    "img": "files/eom.jpg",
+    "pdf": "https://openreview.net/pdf?id=lTt4KjHSsyl",
+    "web": "https://wijmans.xyz/publication/eom/"
+  },
+  {
+    "date": "2022-12",
+    "title": "MultiScan: Scalable RGBD scanning for 3D environments with articulated objects",
+    "authors": [
+      "yongsen", "yiming", "hanxiao", "angel", "manolis"
+    ],
+    "text": "NeurIPS 2022",
+    "img": "files/multiscan.png",
+    "pdf": "https://openreview.net/pdf?id=YxUdazpgweG",
+    "web": "https://3dlg-hcvc.github.io/multiscan/"
+  },
+  {
+    "date": "2022-10",
+    "title": "Articulated 3D Human-Object Interactions from RGB Videos: An Empirical Analysis of Approaches and Challenges",
+    "authors": [
+      "sanjayHaresh", "xiaohao", "hanxiao", "angel", "manolis"
+    ],
+    "text": "3DV 2022",
+    "img": "files/3dhoi.png",
+    "pdf": "https://arxiv.org/pdf/2209.05612.pdf",
+    "web": "https://3dlg-hcvc.github.io/3dhoi/"
+  },
+  {
+    "date": "2022-10",
+    "title": "OPD: Single-view 3D Openable Part Detection",
+    "authors": [
+      "hanxiao", "yongsen", "manolis", "angel"
+    ],
+    "text": "ECCV 2022",
+    "img": "files/opd.png",
+    "pdf": "https://arxiv.org/pdf/2203.16421.pdf",
+    "web": "https://3dlg-hcvc.github.io/OPD/"
+  },
+  {
+    "date": "2021-12",
+    "title": "Habitat 2.0: Training Home Assistants to Rearrange their Habitat",
+    "authors": [
+      "andrewSzot", "alex", "ericUndersander", "erik", "yili", "johnTurner", "noahMaestre", "mustafaMukadam", "devendraChaplot", "oleksandr", "aaron", "mosra", "sameerDharur", "franziskaMeier", "wojciechGaluba", "angel", "zsoltKira", "vladlen", "jitendra", "manolis", "dhruv"
+    ],
+    "text": "NeurIPS 2021",
+    "img": "files/habitat2.jpeg",
+    "pdf": "https://arxiv.org/pdf/2106.14405.pdf",
+    "web": "https://aihabitat.org/"
+  },
+  {
+    "date": "2021-12",
+    "title": "Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI",
+    "authors": [
+      "santhoshRamakrishnan", "aaron", "erik", "oleksandr", "alex", "johnTurner", "ericUndersander",  "wojciechGaluba", "andrewWestbury", "angel", "manolis", "yili", "dhruv"
+    ],
+    "text": "NeurIPS 2021 Datasets & Benchmarks Track",
+    "img": "files/hm3d.jpg",
+    "pdf": "https://arxiv.org/pdf/2109.08238.pdf",
+    "web": "https://aihabitat.org/datasets/hm3d/"
+  },
+  {
+    "date": "2021-10",
+    "title": "Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents",
+    "authors": [
+      "shivansh", "saim", "unnat", "alexSchwing", "svetlanaLazebnik", "manolis", "angel"
+    ],
+    "text": "ICCV 2021",
+    "img": "files/comon.png",
+    "pdf": "https://arxiv.org/abs/2110.05769",
+    "web": "https://shivanshpatel35.github.io/comon/"
+  },
+  {
+    "date": "2021-09",
+    "title": "D3D-HOI: Dynamic 3D Human-Object Interactions from Videos",
+    "authors": [
+      "xiangXu", "hanbyulJoo", "greg", "manolis"
+    ],
+    "text": "arXiv:2108.08420 [cs.CV]",
+    "img": "files/d3dhoi.jpg",
+    "pdf": "https://arxiv.org/abs/2108.08420",
+    "web": "https://github.com/facebookresearch/d3d-hoi"
+  },
+  {
+    "date": "2021-06",
+    "title": "Roominoes: Learning to Assemble 3D Rooms into Floor Plans",
+    "authors": [
+      "kai", "xianghao", "leonLei", "selenaLing", "natalieLindsay", "angel", "manolis", "daniel"
+    ],
+    "text": "SGP 2021",
+    "img": "files/roominoes.png",
+    "pdf": "https://drive.google.com/file/d/1aSePGciFxnLRF4dhJynmNNctVfndIRpE/view",
+    "web": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang"
+  },
+  {
+    "date": "2021-06",
+    "title": "Plan2Scene: Converting Floorplans to 3D Scenes",
+    "authors": [
+      "madhawa", "qirui", "yasu", "angel", "manolis"
+    ],
+    "text": "CVPR 2021",
+    "img": "files/plan2scene.png",
+    "pdf": "https://arxiv.org/pdf/2106.05375.pdf",
+    "web": "https://3dlg-hcvc.github.io/plan2scene/"
+  },
+  {
+    "date": "2021-06",
+    "title": "Mirror3D: Depth Refinement for Mirror Surfaces",
+    "authors": [
+      "jiaqi", "weijie", "angel", "manolis"
+    ],
+    "img": "files/mirror3d.png",
+    "text": "CVPR 2021",
+    "pdf": "https://arxiv.org/pdf/2106.06629.pdf",
+    "web": "https://3dlg-hcvc.github.io/mirror3d/"
+  },
+  {
+    "date": "2021-06",
+    "title": "LayoutGMN: Neural Graph Matching for Structural Layout Similarity",
+    "authors": [
+      "akshay", "manyi", "matt", "manolis", "richard"
+    ],
+    "img": "files/layoutgmn.png",
+    "text": "CVPR 2021"
+  },
+  {
+    "date": "2021-01",
+    "title": "Large Batch Simulation for Deep Reinforcement Learning",
+    "authors": [
+      "brennan", "erik", "alekseiPetrenko", "manolis", "dhruv", "vladlen", "kayvon"
+    ],
+    "img": "files/bps.png",
+    "text": "International Conference on Learning Representations (ICLR), 2021",
+    "pdf": "https://openreview.net/pdf?id=cP5IcoAkfKa",
+    "web": "https://openreview.net/forum?id=cP5IcoAkfKa"
+  },
+  {
+    "date": "2020-11",
+    "title": "Rearrangement: A Challenge for Embodied AI",
+    "authors": [
+      "dhruv", "angel", "soniaChernova", "andrewDavison", "jiaDeng", "vladlen", "sergeyLevine", "jitendra", "igorMordatch", "roozbeh", "manolis", "hao"
+    ],
+    "img": "files/rearrangement.png",
+    "text": "arXiv:2011.01975 [cs.AI]",
+    "pdf": "https://arxiv.org/pdf/2011.01975.pdf",
+    "web": "https://arxiv.org/abs/2011.01975"
+  },
+  {
+    "date": "2020-10",
+    "title": "Multi-ON: Benchmarking Semantic Map Memory using Multi-object Navigation",
+    "authors": [
+      "saim", "shivansh", "unnat", "angel", "manolis"
+    ],
+    "text": "NeurIPS 2020",
+    "img": "files/multion.jpg",
+    "pdf": "https://arxiv.org/pdf/2012.03912.pdf",
+    "web": "https://shivanshpatel35.github.io/multi-ON/"
+  },
+  {
+    "date": "2020-10",
+    "title": "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections",
+    "authors": [
+      "xianghao", "davidCharatan", "sonia", "hanxiao", "mae", "vova", "sid", "manolis", "angel", "daniel"
+    ],
+    "text": "3DV 2020",
+    "img": "files/maps.jpg",
+    "pdf": "http://visual.cs.brown.edu/projects/articulations-webpage/articulations_3dv2020.pdf",
+    "web": "http://visual.cs.brown.edu/projects/articulations-webpage/"
+  },
+  {
+    "date": "2020-07",
+    "title": "Relational Graph Learning for Crowd Navigation",
+    "authors": [
+      "changan", "sha", "payam", "greg", "manolis"
+    ],
+    "text": "International Conference on Intelligent Robots and Systems (IROS) 2020",
+    "img": "files/rgl.jpg",
+    "pdf": "https://arxiv.org/pdf/1909.13165.pdf",
+    "web": "https://github.com/ChanganVR/RelationalGraphLearning"
+  },
+  {
+    "date": "2020-07",
+    "title": "Are We Making Real Progress in Simulated Environments? Measuring the Sim2Real Gap in Embodied Visual Navigation",
+    "authors": [
+      "abhishek", "joanne", "aaron", "alex", "erik", "stefan", "manolis", "soniaChernova", "dhruv"
+    ],
+    "text": "Robotics and Automation Letters (RA-L) & IROS 2020",
+    "img": "files/srcc.jpg",
+    "pdf": "https://arxiv.org/pdf/1912.06321.pdf",
+    "web": "https://abhiskk.github.io/sim2real"
+  },
+  {
+    "date": "2020-04",
+    "title": "DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames",
+    "authors": [
+      "erik", "abhishek", "ari", "stefan", "irfan", "devi", "manolis", "dhruv"
+    ],
+    "text": "International Conference on Learning Representations (ICLR), 2020",
+    "img": "files/ddppo.jpg",
+    "pdf": "https://arxiv.org/pdf/1911.00357.pdf",
+    "web": "https://github.com/facebookresearch/habitat-api"
+  },
+  {
+    "date": "2019-07",
+    "title": "PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks",
+    "authors": [
+      "kai", "yuAnLin", "benWeissmann", "angel", "manolis", "daniel"
+    ],
+    "text": "SIGGRAPH 2019",
+    "img": "files/graphsynth.png",
+    "pdf": "https://drive.google.com/file/d/1CJCM6EQyeUWwxdk6tl8cVxEIhV7s3DoA/view?usp=sharing",
+    "web": "https://github.com/brownvc/planit"
+  },
+  {
+    "date": "2019-06",
+    "title": "The Replica Dataset: A Digital Replica of Indoor Spaces",
+    "authors": [
+      "julian",
+      "Thomas Whelan",
+      "Lingni Ma",
+      "Yufan Chen",
+      "erik",
+      "Simon Green",
+      "Jakob J. Engel",
+      "Raul Mur-Artal",
+      "Carl Ren",
+      "Shobhit Verma",
+      "Anton Clarkson",
+      "Mingfei Yan",
+      "Brian Budge",
+      "Yajie Yan",
+      "Xiaqing Pan",
+      "June Yon",
+      "Yuyang Zou",
+      "Kimberly Leon",
+      "Nigel Carter",
+      "Jesus Briales",
+      "Tyler Gillingham",
+      "Elias Mueggler",
+      "Luis Pesqueira",
+      "manolis",
+      "dhruv",
+      "Hauke M. Strasdat",
+      "Renzo De Nardi",
+      "Michael Goesele",
+      "Steven Lovegrove",
+      "Richard Newcombe"
+    ],
+    "text": "arXiv:1906.05797 [cs.CV]",
+    "img": "files/replica.png",
+    "pdf": "https://arxiv.org/pdf/1906.05797.pdf",
+    "web": "https://github.com/facebookresearch/Replica-Dataset"
+  },
+  {
+    "date": "2019-04",
+    "title": "Habitat: A Platform for Embodied AI Research",
+    "authors": [
+      "manolis",
+      "abhishek",
+      "oleksandr",
+      "yili",
+      "erik",
+      "bhavana",
+      "julian",
+      "jia",
+      "vladlen",
+      "jitendra",
+      "devi",
+      "dhruv"
+    ],
+    "text": "ICCV 2019, Best Paper Award Nominee",
+    "img": "files/habitat.png",
+    "pdf": "https://arxiv.org/pdf/1904.01201.pdf",
+    "web": "https://aihabitat.org/"
+  },
+  {
+    "date": "2019-03",
+    "title": "Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout Prediction",
+    "authors": [
+      "yifeiShi",
+      "angel",
+      "zhelunWu",
+      "manolis",
+      "kaiXu"
+    ],
+    "text": "CVPR 2019, arXiv:1903.03757 [cs.CV]",
+    "img": "files/hierarchylayout1.JPG",
+    "pdf": "https://arxiv.org/pdf/1903.03757",
+    "web": "http://www.yifeishi.net/hierarchylayout.html"
+  },
+  {
+    "date": "2018-11",
+    "title": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
+    "authors": [
+      "armenAvetisyan",
+      "manuelDahnert",
+      "angie",
+      "manolis",
+      "angel",
+      "matthias"
+    ],
+    "text": "CVPR 2019, arXiv:1811.11187 [cs.CV]",
+    "img": "files/scan2cad.jpg",
+    "pdf": "https://arxiv.org/pdf/1811.11187.pdf",
+    "web": "https://niessnerlab.org/projects/avetisyan2019scan2cad.html",
+    "video": "https://www.youtube.com/watch?v=PiHSYpgLTfA"
+  },
+  { "date": "2018-08",
+    "title": "Deep Convolutional Priors for Indoor Scene Synthesis",
+    "authors": ["kai", "manolis", "angel", "daniel"],
+    "text": "SIGGRAPH 2018",
+    "pdf": "files/deepsynth.pdf",
+    "img": "files/deepsynth.png",
+    "web": "https://kwang-ether.github.io/deep-synth/"
+  },
+  { "date": "2018-07",
+    "title": "On Evaluation of Embodied Navigation Agents",
+    "authors": ["peterAnderson", "angel", "devendra", "alexey", "saurabh", "vladlen", "janaKosecka", "jitendra", "roozbeh", "manolis", "amirZamir"],
+    "text": "arXiv:1807.06757 [cs.AI]",
+    "pdf": "https://arxiv.org/abs/1807.06757",
+    "img": "files/spl.jpg",
+    "web": "https://arxiv.org/pdf/1807.06757.pdf"
+  },
+  { "date": "2018-04",
+    "title": "Functionality Representations and Applications for Shape Analysis",
+    "authors": ["ruizhen", "manolis", "oliver"],
+    "text": "Eurographics STAR (State of The Art Report), CGF 2018",
+    "pdf": "files/func_star.pdf",
+    "img": "files/func_star.jpg",
+    "web": "files/func_star.pdf"
+  },
+  { "date": "2018-03",
+    "title": "Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings",
+    "authors": ["kevin", "chrischoy", "manolis", "angel", "tom", "silvio"],
+    "text": "arXiv:1803.08495 [cs.CV]",
+    "pdf": "https://arxiv.org/pdf/1803.08495",
+    "img": "files/text2shape.png",
+    "web": "https://text2shape.stanford.edu"
+  },
+  { "date": "2017-12",
+    "title": "MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments",
+    "authors": ["manolis", "angel", "alexey", "tom", "vladlen"],
+    "text": "arXiv:1712.03931 [cs.LG]",
+    "pdf": "https://arxiv.org/abs/1712.03931",
+    "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
+    "web": "https://www.minosworld.org/"
+  },
+  { "date": "2017-12",
+    "title": "Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View",
+    "authors": ["shuran", "andy", "angel", "manolis", "silvio", "tom"],
+    "text": "CVPR 2018, arXiv:1712.04569 [cs.CV]",
+    "pdf": "https://arxiv.org/abs/1712.04569",
+    "img": "https://im2pano3d.cs.princeton.edu/teaser.jpg",
+    "web": "https://im2pano3d.cs.princeton.edu/"
+  },
+  {
+    "date": "2017-11",
+    "title": "Linking WordNet to 3D Shapes",
+    "authors": ["angel", "rishi", "pranav", "manolis", "christiane"],
+    "text": "Proceedings of Global WordNet Conference 2018",
+    "pdf": "https://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_66.pdf",
+    "img": "files/wordnetLink.png"
+  },
+  {
+    "date": "2017-09",
+    "title": "Cross-modal Attribute Transfer for Rescaling 3D Models",
+    "authors": ["lin", "angel", "hao", "manolis", "leo"],
+    "text": "3DV 2017",
+    "img": "files/attributeTransfer.png",
+    "pdf": "https://cseweb.ucsd.edu/~haosu/papers/3dv2017_attribute_transfer.pdf"
+  },
+  {
+    "date": "2017-09",
+    "title": "Matterport3D: Learning from RGB-D Data in Indoor Environments",
+    "authors": ["angel", "angie", "tom", "maciej", "matthias", "manolis", "shuran", "andy", "yinda"],
+    "text": "3DV 2017",
+    "img": "files/matterport3d.png",
+    "pdf": "https://arxiv.org/pdf/1709.06158",
+    "bib": "https://arxiv.org/abs/1709.06158",
+    "web": "https://niessner.github.io/Matterport/"
+  },
+  {
+    "date": "2017-03",
+    "title": "Learning Where to Look: Data-Driven Viewpoint Set Selection for 3D Scenes",
+    "authors": ["kyle", "manolis", "angel", "tom"],
+    "text": "arXiv:1702.04405 [cs.CV]",
+    "img": "files/viewsets.png",
+    "pdf": "https://arxiv.org/pdf/1704.02393",
+    "bib": "https://arxiv.org/abs/1704.02393",
+    "web": "https://arxiv.org/abs/1704.02393"
+  },
+  {
+    "date": "2017-02",
+    "title": "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
+    "authors": ["angie", "angel", "manolis", "maciej", "tom", "matthias"],
+    "text": "CVPR 2017, arXiv:1702.04405 [cs.CV]",
+    "img": "files/scannet.jpg",
+    "pdf": "https://arxiv.org/pdf/1702.04405",
+    "bib": "https://www.scan-net.org/",
+    "web": "https://www.scan-net.org/"
+  },
+  {
+    "date": "2016-12",
+    "title": "Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks",
+    "authors": ["yinda", "shuran", "ersin", "manolis", "jlee", "hjin" ,"tom"],
+    "text": "CVPR 2017, arXiv:1612.07429 [cs.CV]",
+    "img": "files/pbrs.jpg",
+    "pdf": "https://arxiv.org/pdf/1612.07429v2.pdf",
+    "bib": "https://robots.princeton.edu/projects/2016/PBRS/",
+    "web": "https://robots.princeton.edu/projects/2016/PBRS/"
+  },
+  {
+    "date": "2016-11",
+    "title": "Semantic Scene Completion from a Single Depth Image",
+    "authors": ["shuran", "fisher", "andy", "angel", "manolis", "tom"],
+    "text": "CVPR 2017, arXiv:1611.08974 [cs.CV]",
+    "img": "files/sscnet.jpg",
+    "pdf": "https://arxiv.org/pdf/1611.08974v1.pdf",
+    "bib": "https://sscnet.cs.princeton.edu/bibtex.bib",
+    "web": "https://sscnet.cs.princeton.edu/"
+  },
+  {
+    "date": "2016-10",
+    "title": "SceneSuggest: Context-driven 3D Scene Design",
+    "authors": ["manolis","angel","maneesh"],
+    "text": "arXiv:1703.00061 [cs.GR]",
+    "img": "files/scenesuggest.png",
+    "pdf": "https://arxiv.org/pdf/1703.00061.pdf",
+    "bib": "https://arxiv.org/abs/1703.00061",
+    "web": "https://arxiv.org/abs/1703.00061"
+  },
+  {
+    "date": "2016-10",
+    "title": "SceneSeer: 3D Scene Design with Natural Language",
+    "authors": ["angel", "mihail", "manolis", "chrisman"],
+    "text": "arXiv:1703.00050 [cs.GR]",
+    "img": "files/sceneseer.png",
+    "pdf": "https://arxiv.org/pdf/1703.00050.pdf",
+    "bib": "https://arxiv.org/abs/1703.00050",
+    "web": "https://arxiv.org/abs/1703.00050"
+  },
+  {
+    "date": "2016-12",
+    "title": "Directions in Shape Analysis towards Functionality",
+    "authors": ["ruizhen","oliver","youyi","manolis"],
+    "text": "SIGGRAPH Asia Course, 2016",
+    "img": "files/shape-functionality-course.png",
+    "pdf": "https://vcc.szu.edu.cn/courses/functionality/",
+    "bib": "https://vcc.szu.edu.cn/courses/functionality/",
+    "web": "https://vcc.szu.edu.cn/courses/functionality/"
+  },
+  {
+    "date": "2016-09",
+    "title": "Body-centric Understanding of 3D Environments",
+    "authors": ["manolis"],
+    "text": "Ph.D. dissertation, Department of Computer Science, Stanford University, 2016",
+    "img": "files/thesis.png",
+    "pdf": "https://purl.stanford.edu/db690fq5772",
+    "bib": "https://purl.stanford.edu/db690fq5772",
+    "web": "https://purl.stanford.edu/db690fq5772"
+  },
+  {
+    "date": "2016-07",
+    "title": "PiGraphs: Learning Interaction Snapshots from Observations",
+    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "text": "SIGGRAPH 2016 Technical Papers",
+    "img": "https://graphics.stanford.edu/projects/pigraphs/pigraphs.png",
+    "pdf": "https://graphics.stanford.edu/projects/pigraphs/",
+    "bib": "https://graphics.stanford.edu/projects/pigraphs/",
+    "web": "https://graphics.stanford.edu/projects/pigraphs/"
+  },
+  {
+    "date": "2016-05",
+    "title": "SHREC'16 Track: Large-Scale 3D Shape Retrieval from ShapeNet Core55",
+    "authors": "Manolis Savva, Fisher Yu, Hao Su, Masaki Aono, Baoquan Chen, Daniel Cohen-Or, Weihong Deng, Hang Su, Song Bai, Xiang Bai, Noa Fish, Jiajie Han, Evangelos Kalogerakis, Erik G. Learned-Miller, Yangyan Li, Minghui Liao, Subhransu Maji, Atsushi Tatsuma, Yida Wang, Nanhai Zhang, Zhichao Zhou",
+    "text": "Eurographics Workshop on 3D Object Retrieval 2016",
+    "img": "files/shrec16shapenet.png",
+    "pdf": "https://shapenet.cs.stanford.edu/shrec16/shrec16shapenet.pdf",
+    "bib": "https://shapenet.cs.stanford.edu/shrec16/",
+    "web": "https://shapenet.cs.stanford.edu/shrec16/"
+  },
+  {
+    "date": "2015-12",
+    "title": "ShapeNet: An Information-Rich 3D Model Repository",
+    "authors": ["angel", "tom", "leo", "pat", "qixing", "zimo", "silvio", "manolis", "shuran", "hao", "jianxiong", "eric", "fisher"],
+    "text": "arXiv:1512.03012 [cs.GR], Dec 2015",
+    "img": "files/shapenet.png",
+    "pdf": "https://arxiv.org/pdf/1512.03012v1",
+    "bib": "https://shapenet.cs.stanford.edu/resources/shapenet.bib",
+    "web": "https://arxiv.org/abs/1512.03012"
+  },
+  {
+    "date": "2015-11",
+    "title": "Activity-centric Scene Synthesis for Functional 3D Scene Modeling",
+    "authors": ["matt", "manolis", "yangyan", "pat", "matthias"],
+    "text": "SIGGRAPH Asia 2015 Technical Papers",
+    "img": "files/actsynth.png",
+    "pdf": "https://graphics.stanford.edu/~niessner/papers/2015/9synth/fisher2015activity_orig.pdf",
+    "bib": "https://graphics.stanford.edu/projects/actsynth/fisher2015actsynth.bib",
+    "web": "https://graphics.stanford.edu/projects/actsynth/"
+  },
+  {
+    "date": "2015-07",
+    "title": "Semantically-Enriched 3D Models for Common-sense Knowledge",
+    "authors": ["manolis", "angel", "pat"],
+    "text": "CVPR 2015 Vision meets Cognition Workshop",
+    "img": "files/semgeo.png",
+    "pdf": "https://graphics.stanford.edu/projects/semgeo/semgeo.pdf",
+    "bib": "https://graphics.stanford.edu/projects/semgeo/semgeo.bib",
+    "web": "https://graphics.stanford.edu/projects/semgeo/"
+  },
+  {
+    "date": "2015-06",
+    "title": "Text to 3D Scene Generation with Rich Lexical Grounding",
+    "authors": ["angel", "will", "manolis", "chrispotts", "chrisman"],
+    "text": "Proceedings of ACL 2015",
+    "img": "files/lexground.png",
+    "pdf": "https://nlp.stanford.edu/pubs/chang-acl2015-lexground.pdf",
+    "bib": "https://nlp.stanford.edu/pubs/chang-acl2015-lexground.bib",
+    "web": "https://nlp.stanford.edu/data/text2scene.shtml"
+  },
+  {
+    "date": "2014-12",
+    "title": "SceneGrok: Inferring Action Maps in 3D Environments",
+    "authors": ["manolis", "angel", "pat", "matt", "matthias"],
+    "text": "SIGGRAPH Asia 2014 Technical Papers",
+    "img": "files/scenegrok.png",
+    "pdf": "https://graphics.stanford.edu/projects/scenegrok/scenegrok.pdf",
+    "bib": "https://graphics.stanford.edu/projects/scenegrok/scenegrok.bib",
+    "web": "https://graphics.stanford.edu/projects/scenegrok/"
+  },
+  {
+    "date": "2014-12",
+    "title": "On Being the Right Scale: Sizing Large Collections of 3D Models",
+    "authors": ["manolis", "angel", "gilbert", "chrisman", "pat"],
+    "text": "SIGGRAPH Asia 2014 Workshop on Indoor Scene Understanding: Where Graphics meets Vision",
+    "img": "files/sizes.png",
+    "pdf": "https://graphics.stanford.edu/projects/sizes/sizes.pdf",
+    "bib": "https://graphics.stanford.edu/projects/sizes/sizes.bib",
+    "web": "https://graphics.stanford.edu/projects/sizes/"
+  },
+  {
+    "date": "2014-10",
+    "title": "Learning Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014)",
+    "img": "files/spatialLearning.png",
+    "pdf": "https://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf",
+    "bib": "https://nlp.stanford.edu/pubs/spatial-emnlp2014.bib",
+    "web": "https://nlp.stanford.edu/pubs/spatial-emnlp2014.pdf"
+  },
+  {
+    "date": "2014-07",
+    "title": "Learning Affordance Maps by Observing Interactions",
+    "authors": ["manolis", "angel", "matt", "matthias", "pat"],
+    "text": "CVPR 2014 Workshop on Functionality, Physics, Intentionality and Causality",
+    "img": "files/fpic2014.png",
+    "pdf": "files/fpic2014.pdf",
+    "bib": "files/fpic2014.bib",
+    "web": "files/fpic2014.pdf"
+  },
+  {
+    "date": "2014-06",
+    "title": "Interactive Learning of Spatial Knowledge for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the ACL 2014 Workshop on Interactive Language Learning, Visualization, and Interfaces",
+    "img": "files/interactiveLearning.png",
+    "pdf": "https://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf",
+    "bib": "https://nlp.stanford.edu/pubs/scenegen-aclviz2014.bib",
+    "web": "https://nlp.stanford.edu/pubs/scenegen-aclviz2014.pdf"
+  },
+  {
+    "date": "2014-06",
+    "title": "Semantic Parsing for Text to 3D Scene Generation",
+    "authors": ["angel", "manolis", "chrisman"],
+    "text": "Proceedings of the ACL 2014 Workshop on Semantic Parsing",
+    "img": "files/semanticParsing.png",
+    "pdf": "https://nlp.stanford.edu/pubs/scenegen-sp2014.pdf",
+    "bib": "https://nlp.stanford.edu/pubs/scenegen-sp2014.bib",
+    "web": "https://nlp.stanford.edu/pubs/scenegen-sp2014.pdf"
+  },
+  {
+    "date": "2014-05",
+    "title": "TransPhoner: Automated Mnemonic Keyword Generation",
+    "authors": ["manolis", "angel", "chrisman", "pat"],
+    "text": "Proceedings of CHI 2014",
+    "img": "files/transphoner.png",
+    "pdf": "https://graphics.stanford.edu/projects/transphoner/TransPhoner.pdf",
+    "bib": "https://graphics.stanford.edu/projects/transphoner/TransPhoner.bib",
+    "web": "https://graphics.stanford.edu/projects/transphoner/"
+  },
+  {
+    "date": "2012-12",
+    "title": "Example-based Synthesis of 3D Object Arrangements",
+    "authors": ["matt", "daniel", "manolis", "tom", "pat"],
+    "text": "Proceedings of SIGGRAPH Asia 2012",
+    "img": "files/sceneSynth.png",
+    "pdf": "https://graphics.stanford.edu/projects/scenesynth/scenesynth_paper.pdf",
+    "bib": "https://graphics.stanford.edu/projects/scenesynth/",
+    "web": "https://graphics.stanford.edu/projects/scenesynth/"
+  },
+  {
+    "date": "2012-05",
+    "title": "GraphPrism: Compact Visualization of Network Structure",
+    "authors": ["sanjay", "diana", "manolis", "jeff"],
+    "text": "Advanced Visual Interfaces, 2012",
+    "img": "files/graphprism.png",
+    "pdf": "https://vis.stanford.edu/files/2012-GraphPrism-AVI.pdf",
+    "bib": "https://vis.stanford.edu/bibtex/graphprism",
+    "web": "https://vis.stanford.edu/papers/graphprism"
+  },
+  {
+    "date": "2011-10",
+    "title": "ReVision: Automated Classification, Analysis and Redesign of Chart Images",
+    "authors": ["manolis", "nickkong", "arti", "feifei", "maneesh", "jeff"],
+    "text": "ACM User Interface Software & Technology (UIST), 2011 <strong>[Notable Paper Award]</strong>",
+    "img": "files/revision.png",
+    "pdf": "https://vis.stanford.edu/files/2011-ReVision-UIST.pdf",
+    "bib": "https://vis.stanford.edu/bibtex/revision",
+    "web": "https://vis.stanford.edu/papers/revision"
+  },
+  {
+    "date": "2011-09",
+    "title": "Characterizing Structural Relationships in Scenes using Graph Kernels",
+    "authors": ["matt", "manolis", "pat"],
+    "text": "Proceedings of SIGGRAPH 2011",
+    "img": "files/graphkernel.png",
+    "pdf": "files/graphkernel.pdf",
+    "bib": "files/graphkernel.bib",
+    "web": "files/graphkernel.pdf"
+  }
+]
