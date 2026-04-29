@@ -1,4 +1,22 @@
 [
+{
+    "date": "2026-06",
+    "title": "Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects",
+    "authors": ["denys", "jiayi", "egorFokin", "qirui", "ali", "manolis", "angel"],
+    "text": "CVPR 2026",
+    "img": "files/artiverse.png",
+    "web": "https://3dlg-hcvc.github.io/artiverse/",
+    "pdf": ""
+  },
+{
+    "date": "2026-05",
+    "title": "VisACD: Visibility-Based GPU-Accelerated Approximate Convex Decomposition",
+    "authors": ["egorFokin", "manolis"],
+    "text": "Eurographics 2026 Short Paper",
+    "img": "files/visacd.png",
+    "web": "https://3dlg-hcvc.github.io/visacd/",
+    "pdf": "https://arxiv.org/pdf/2604.04244"
+  },
   {
     "date": "2026-03",
     "title": "HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation",
