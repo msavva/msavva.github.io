@@ -1,4 +1,13 @@
 [
+{
+    "date": "2026-06",
+    "title": "Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects",
+    "authors": ["denys", "jiayi", "egorFokin", "qirui", "ali", "manolis", "angel"],
+    "text": "CVPR 2026",
+    "img": "files/artiverse.png",
+    "web": "https://3dlg-hcvc.github.io/artiverse/",
+    "pdf": ""
+  },
   {
     "date": "2026-03",
     "title": "HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation",
