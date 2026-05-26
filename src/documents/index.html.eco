@@ -11,7 +11,7 @@ layout: "default"
   </div>
   <div class="col-xs-9">
     <%- @partial('intro') %>
-    <%- @partial('news', { news_limit: 8 }) %>
+    <%- @partial('news', { news_limit: 10 }) %>
     <%- @partial('publications') %>
   </div>
 </div>
