@@ -1,21 +1,31 @@
-# Your [DocPad](http://docpad.org) Project
+# Static GitHub Pages site
+
+## Local development
 
 ```bash
-nvm install v10.13.0
-nvm use v10.13.0
-cd ~\code\website
-npm install
-node_modules/docpad/bin/docpad install
-node_modules/docpad/bin/docpad run
-node_modules/docpad/bin/docpad deploy-ghpages --env static
+bundle install
+bundle exec jekyll serve
 ```
 
-If last command above fails with error:
+The site will be available at `http://127.0.0.1:4000/`.
+
+## Local build
+
 ```bash
-cd out
-git remote add origin git@github.com:msavva/msavva.github.io.git
-git push -f origin HEAD:master
+bundle exec jekyll build
 ```
+
+The raw content lives in Jekyll's `_data/` directory, and the site assets live in `files/`.
+
+## GitHub Pages deployment
+
+Deployment uses GitHub Pages' built-in Jekyll support.
+
+1. Push changes to the publishing branch for the repository.
+2. In GitHub repository settings, set `Pages -> Source` to `Deploy from a branch`.
+3. Select the branch to publish from and use the repository root (`/`) as the folder.
+
+GitHub Pages will run Jekyll automatically and publish the generated site.
 
 ## License
 Copyright &copy; 2015+ All rights reserved.

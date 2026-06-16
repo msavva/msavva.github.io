@@ -1,0 +1,13 @@
+<h3>News</h3>
+<hr>
+<p>
+{% if include.news_limit %}
+  {% for item in site.data.news limit: include.news_limit %}
+    <div class="row">
+      <div class="col-xs-2">{{ item.date }}</div>
+      <div class="col-xs-10">{{ item.description }}</div>
+    </div>
+  {% endfor %}
+  <a href="/news.html">More...</a>
+{% endif %}
+</p>

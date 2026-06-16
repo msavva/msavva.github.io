@@ -1,0 +1,11 @@
+title: "Manolis Savva"
+author: "Manolis Savva"
+email: "manolis.savva@gmail.com"
+description: "Manolis Savva's Homepage"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown

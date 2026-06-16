@@ -1,0 +1,25 @@
+{% comment %}Build a flat array of student objects with their id included, then sort by name{% endcomment %}
+{% assign student_list = "" | split: "" %}
+{% for entry in site.data.people -%}
+  {%- assign person = entry[1] -%}
+  {%- if person.tags and person.tags contains 'student' -%}
+    {%- assign student_list = student_list | push: person -%}
+  {%- endif -%}
+{%- endfor %}
+{% assign student_list = student_list | sort: "name" %}
+
+<h3>Students & Visitors</h3>
+<hr>
+{% for person in student_list -%}
+  {%- unless person.tags contains 'alum' %}
+    <a href="{{ person.web }}">{{ person.name }}</a> {{ person.note }}<br>
+  {%- endunless -%}
+{%- endfor %}
+
+<h3>Alumni</h3>
+<hr>
+{% for person in student_list -%}
+  {%- if person.tags contains 'alum' %}
+    <a href="{{ person.web }}">{{ person.name }}</a>{% if person.next %} (next: {{ person.next }}){% endif %}<br>
+  {%- endif -%}
+{%- endfor %}

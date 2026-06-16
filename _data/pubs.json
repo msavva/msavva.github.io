@@ -606,7 +606,7 @@
     "authors": ["manolis", "angel", "alexey", "tom", "vladlen"],
     "text": "arXiv:1712.03931 [cs.LG]",
     "pdf": "https://arxiv.org/abs/1712.03931",
-    "img": "https://github.com/minosworld/minos/raw/master/docs/img/video_thumbnail.png",
+    "img": "files/minos_scenes.png",
     "web": "https://www.minosworld.org/"
   },
   { "date": "2017-12",
@@ -614,7 +614,7 @@
     "authors": ["shuran", "andy", "angel", "manolis", "silvio", "tom"],
     "text": "CVPR 2018, arXiv:1712.04569 [cs.CV]",
     "pdf": "https://arxiv.org/abs/1712.04569",
-    "img": "https://im2pano3d.cs.princeton.edu/teaser.jpg",
+    "img": "files/im2pano.jpg",
     "web": "https://im2pano3d.cs.princeton.edu/"
   },
   {
@@ -728,7 +728,7 @@
     "title": "PiGraphs: Learning Interaction Snapshots from Observations",
     "authors": ["manolis", "angel", "pat", "matt", "matthias"],
     "text": "SIGGRAPH 2016 Technical Papers",
-    "img": "https://graphics.stanford.edu/projects/pigraphs/pigraphs.png",
+    "img": "files/pigraphs_teaser.png",
     "pdf": "https://graphics.stanford.edu/projects/pigraphs/",
     "bib": "https://graphics.stanford.edu/projects/pigraphs/",
     "web": "https://graphics.stanford.edu/projects/pigraphs/"
