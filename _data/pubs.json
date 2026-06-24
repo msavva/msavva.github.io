@@ -8,7 +8,16 @@
     "web": "https://3dlg-hcvc.github.io/artiverse/",
     "pdf": ""
   },
-{
+  {
+    "date": "2026-05",
+    "title": "MatEval: Evaluating Indoor 3D Scene Material Recovery from a Single Image",
+    "authors": ["dongchen", "manolis"],
+    "text": "CRV 2026",
+    "img": "files/mateval.png",
+    "web": "https://dongchen-yang.github.io/MatEval/",
+    "pdf": "https://dongchen-yang.github.io/MatEval/static/pdfs/mateval.pdf"
+  },
+  {
     "date": "2026-05",
     "title": "VisACD: Visibility-Based GPU-Accelerated Approximate Convex Decomposition",
     "authors": ["egorFokin", "manolis"],
@@ -70,6 +79,15 @@
     "img": "files/artstar.png",
     "web": "https://arxiv.org/abs/2403.14937",
     "pdf": "https://arxiv.org/pdf/2403.14937"
+  },
+  {
+    "date": "2025-05",
+    "title": "SemanticOBB: Semantic Front Estimation for Indoor 3D Objects",
+    "authors": ["arminKavian", "manolis"],
+    "text": "CRV 2025",
+    "img": "files/semobb.png",
+    "web": "https://crv.pubpub.org/pub/co8nny8e/release/1",
+    "pdf": "https://crv.pubpub.org/pub/co8nny8e/release/1"
   },
   {
     "date": "2025-04",
