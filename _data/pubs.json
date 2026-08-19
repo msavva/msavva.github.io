@@ -1,5 +1,14 @@
 [
-{
+  {
+    "date": "2026-08",
+    "title": "Survey on Compositional 3D Indoor Scene Generation",
+    "authors": ["ivanTam", "derekPun", "austinWang", "xiaohao", "qirui", "hanhung", "angel", "manolis"],
+    "text": "CGF 2026",
+    "img": "files/comp3dscenegen.png",
+    "web": "https://3dlg-hcvc.github.io/Comp3DSceneGen/",
+    "pdf": "http://doi.org/10.1111/cgf.70591"
+  },
+  {
     "date": "2026-06",
     "title": "Artiverse: A Diverse and Physically Grounded Dataset for Articulated Objects",
     "authors": ["denys", "jiayi", "egorFokin", "qirui", "ali", "manolis", "angel"],
@@ -7,6 +16,14 @@
     "img": "files/artiverse.png",
     "web": "https://3dlg-hcvc.github.io/artiverse/",
     "pdf": ""
+  },
+  {
+    "date": "2026-06",
+    "title": "Learning to Place Objects with Programs and Iterative Self Training",
+    "authors": ["adrianChang", "kai", "yuanboLi", "manolis", "angel", "daniel"],
+    "text": "CVPR 2026 Workshop on AI for Content Creation",
+    "img": "files/sceneplad.png",
+    "pdf": "https://arxiv.org/abs/2503.04496"
   },
   {
     "date": "2026-05",

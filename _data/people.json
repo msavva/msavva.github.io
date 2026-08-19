@@ -635,7 +635,8 @@
   "derekPun": {
     "name": "Hou In (Derek) Pun",
     "web": "https://houip.github.io/portfolio/",
-    "tags": ["student", "msc"]
+    "tags": ["student", "msc", "alum"],
+    "next": "Augmenta AI"
   },
   "austinWang": {
     "name": "Austin T. Wang",
@@ -670,5 +671,13 @@
   "egorFokin": {
     "name": "Egor Fokin",
     "web": "https://egorfokin.github.io/"
+  },
+  "adrianChang": {
+    "name": "Adrian Chang",
+    "web": "https://www.linkedin.com/in/anc2001"
+  },
+  "yuanboLi": {
+    "name": "Yuanbo Li",
+    "web": "https://liyb2002.github.io/"
   }
 }
