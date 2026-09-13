@@ -679,5 +679,31 @@
   "yuanboLi": {
     "name": "Yuanbo Li",
     "web": "https://liyb2002.github.io/"
+  },
+  "mingruiZhao": {
+    "name": "Mingrui Zhao",
+    "web": "https://mingrui-zhao.github.io/"
+  },
+  "saiRajKishorePerla": {
+    "name": "Sai Raj Kishore Perla",
+    "web": "https://sairajk.github.io/"
+  },
+  "sauradipNag": {
+    "name": "Sauradip Nag",
+    "web": "https://sauradip.github.io/"
+  },
+  "ducAnhNguyen": {
+    "name": "Duc Anh Nguyen",
+    "web": "https://www.linkedin.com/in/duc-anh-nguyen-174231328/"
+  },
+  "ruiqiWang": {
+    "name": "Ruiqi Wang",
+    "web": "https://suikei-wang.github.io/"
+  },
+  "xiaoxi": {
+    "name": "Xiaoxi Yang",
+    "web": "https://www.linkedin.com/in/xiaoxi-yang-0a196428a/",
+    "note": "(co-advised with Ali Mahdavi-Amiri)",
+    "tags": ["student", "phd"]
   }
 }

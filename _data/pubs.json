@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-12",
+    "title": "Functionalization via Structure Completion and Motion Rectification",
+    "authors": ["mingruiZhao", "saiRajKishorePerla", "kai", "sauradipNag", "ducAnhNguyen", "Jiayi Peng", "ruiqiWang", "angel", "manolis", "ali", "richard"],
+    "text": "SIGGRAPH Asia 2026",
+    "img": "files/functionalization.gif",
+    "web": "https://mingrui-zhao.github.io/Functionalization/",
+    "pdf": "https://arxiv.org/abs/2605.18010"
+  },
+  {
     "date": "2026-08",
     "title": "Survey on Compositional 3D Indoor Scene Generation",
     "authors": ["ivanTam", "derekPun", "austinWang", "xiaohao", "qirui", "hanhung", "angel", "manolis"],
